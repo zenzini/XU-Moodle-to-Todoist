@@ -1,42 +1,111 @@
+import sys
+
 import markdownify as md
 import re
 import json
+import os
+import traceback
+import time as tm
+import winrt.windows.ui.notifications as notifications
+import winrt.windows.data.xml.dom as dom
 
+from datetime import datetime
+from dotenv import load_dotenv
 from moodle import Moodle
 from todoist_api_python.api import TodoistAPI
-from datetime import datetime
 
-doist = TodoistAPI('168fac870c8650d3a6ea1ab7b049b8c83cdd73ac')
+load_dotenv()
+eToken = os.getenv("ELEARN")
+tToken = TodoistAPI(os.getenv("DOIST"))
+
 url = 'https://elearn.xu.edu.ph/webservice/rest/server.php?moodlewsrestformat=json'
-token = 'f3d438c32a3444766af8ced8a5b7ff55'
-xu = Moodle(url, token)
+xu = Moodle(url, eToken)
+date = datetime.now().strftime("%B %d %Y, %A at %I:%M%p")
+sDate = datetime.now().strftime("%b %d %y, %I:%M%p")
+nEvents = ""
 
-
-# id's: cscc 14.1 b, cscc 15 b, cscc 21.1 b,
-# cscc 32.1 b cscc 37 b, fl 2.3 ccb,
-# math 117 edb, philo 23
-
+nManager = notifications.ToastNotificationManager
+notifier = nManager.create_toast_notifier("C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python39\\python.exe")
 
 def main():
-    print(datetime.now().strftime("%B %d, %Y | %H:%M:%S"))
-    # crit = xu('core_webservice_get_site_info')
-    ids = {10771: 2161285287, 9505: 2161285285, 10715: 2161285292,
-           10717: 2161285298, 9688: 2161345015, 10871: 2161354487,
-           9914: 2161349813, 10523: 2161285296}
+    print("Running on " + date)
 
     with open("store.json", 'r') as f:
         exists = json.load(f)
 
-    for key in ids:
-        dCal = (xu('core_calendar_get_calendar_upcoming_view', courseid=key))
-        # for key2, value in dict.items(dCal):
+    # crit = xu('core_webservice_get_site_info')
+    # print(crit)
+
+    for key in exists["ids"]:
+        try:
+            check = int
+            dCal = xu('core_calendar_get_action_events_by_course', courseid=key)
+            # for key2, value in dict.items(dCal):
             # print(key2, ' : ', value)
             # print('\n')
 
-        updates(key, ids, exists)
+            updates(key, exists["ids"], exists)
 
-        for event in dCal['events']:
-            todo(event, ids, key, exists)
+            for event in dCal['events']:
+                check = todo(event, exists["ids"], key, exists)
+
+            print(check)
+            if check == 1:
+                tString = """
+                <toast>
+                    <visual>
+                        <binding template='ToastGeneric'>
+                            <text>
+                """ + exists["ids"][key] + " has new requirements! " + """
+                            </text>
+                            <text> 
+                """ + "Checked on " + sDate + ": \n\n" + nEvents + """
+                            </text>
+                        </binding>
+                    </visual>
+                    <audio silent='True'/>
+                </toast>
+                  """
+
+                # add notif
+
+                # convert notification to an XmlDocument
+                xDoc = dom.XmlDocument()
+                xDoc.load_xml(tString)
+
+                # display notification
+                notifier.show(notifications.ToastNotification(xDoc))
+
+        except Exception:
+            tString = """
+            <toast>
+                <visual>
+                    <binding template='ToastGeneric'>
+                        <text>
+            """ + "Error with" + exists["ids"][key] + "!" + """"
+                        </text>
+                        <text> 
+            """ + "Checked on " + sDate + ": \n\n" + traceback.format_exc() + """
+                        </text>
+                    </binding>
+                </visual>
+                <audio silent='True'/>
+            </toast>
+              """
+
+            # add notif
+
+            # convert notification to an XmlDocument
+            xDoc = dom.XmlDocument()
+            xDoc.load_xml(tString)
+
+            # display notification
+            notifier.show(notifications.ToastNotification(xDoc))
+
+            print("\n")
+            print("Error with " + exists["ids"][key] + "! Details: ")
+            tm.sleep(0.01)
+            traceback.print_exc()
 
     print('________________________________________')
     with open('store.json', 'w') as f:
@@ -46,47 +115,167 @@ def main():
 def todo(event, ids, key, exists):
     name = event['name']
     eUrl = event['url']
-    time = validTime(event['formattedtime'])
+    starts = ""
+    desc = " "
+    prio = ""
 
-    modded = datetime.fromtimestamp(event['timemodified']).strftime("%B %d %Y, %H:%M:%S")
+    tstamp = validTime(event['formattedtime'])
+    time = format_time(int(tstamp))
+
+    modded = format_time(event['timemodified'])
+
     try:
-        starts = datetime.fromtimestamp(event['course']['startdate']).strftime("%B %d %Y, %H:%M:%S")
-    except Exception as error:
-        starts = datetime.fromtimestamp(event['timestart']).strftime("%B %d %Y, %H:%M:%S")
+        starts = format_time(event['course']['startdate'])
+    except Exception:
+        starts = format_time(event['timestart'])
 
-    dReq = md.markdownify(event['description'], heading_style="ATX")
-    desc = (dReq + '--- \n\n **Opens:** ' + starts + '\n\n **Last modified:** ' + modded +
-            '\n\n**[Click me to open the requirement in E-Learn.](' + eUrl + ')**')
+    result = inTodo(exists, name, modded, time, tstamp)
 
-    result = inTodo(name, modded, exists, time)
+    if event['modulename'] == 'assign':
+        prio = 3
+    elif event['modulename'] == 'quiz':
+        prio = 4
+    else:
+        prio = 2
 
     if result < 2:
         if result == 1:
-            desc = '**RECENTLY MODIFIED!** \n\n' + desc
+            desc += '**RECENTLY MODIFIED!** \n\n'
+
         try:
-            doist.add_task(
+            dReq = md.markdownify(event['description'], heading_style="ATX")
+            desc += (dReq + '--- \n\n **Opens:** ' + starts + '\n\n **Last modified:** ' + modded +
+                     '\n\n**[Click me to open the requirement in E-Learn!](' + eUrl + ')**')
+
+            tToken.add_task(
                 content=name,
                 description=desc,
                 due_string=time,
                 due_lang='en',
-                priority=2,
-                label_ids=[
+                priority=prio,
+                labels=[
                     ids[key],
-                    2159902367],
-                section_id=96723857,
+                    "NEW"],
+                section_id="96723857",
             )
         except Exception as error:
             print(error)
 
+        return 1
 
-def inTodo(name, modded, exists, time):
+    return 0
+
+
+def updates(key, ids, exists):
+    nUps = 0
+    tTemp = ""
+
+    try:
+        sKey = str(key)
+        e = exists["update"][sKey]
+
+        dUpdate = (xu('core_course_get_updates_since', courseid=key, since=e))
+
+        if dUpdate['instances']:
+            print(dUpdate)
+            for x in range(len(dUpdate['instances'])):
+                cid = dUpdate['instances'][x]['id']
+                uList = ""
+                new = (xu('core_course_get_course_module', cmid=cid))
+                print(new)
+
+                header = "* UPDATE on **" + str(new['cm']['name']) + "**!"
+                nUps += 1
+                cname = str(new['cm']['modname'])
+
+                rUpdates = len((dUpdate['instances'][x]["updates"]))
+                for y in range(rUpdates):
+                    try:
+                        iname = dUpdate['instances'][x]["updates"][y]["name"]
+                        f = dUpdate['instances'][x]["updates"][y]["timeupdated"]
+                        uList += "- " + iname + " on " + format_time(f)
+                    except Exception:
+                        iname = dUpdate['instances'][x]["updates"][y]["name"]
+                        f = int(e)
+                        uList += "- " + iname + " since last checked on " + format_time(f)
+
+                    if not y == (rUpdates - 1):
+                        uList += ", \n"
+                    else:
+                        uList += "."
+
+                eUrl = "https://elearn.xu.edu.ph/mod/" + cname + "/view.php?id=" + str(cid)
+                desc = "\n **Update on " + cname + ",** specifically: \n" \
+                       + uList + '\n\n --- \n\n**[Click me to open the update in E-Learn!](' + eUrl + ')**'
+
+                exists["update"][sKey] = str(round(datetime.timestamp(datetime.now())))
+
+                try:
+                    tToken.add_task(
+                        content=header,
+                        description=desc,
+                        due_lang='en',
+                        labels=[
+                            ids[key],
+                            "NEW"],
+                        section_id="97223485",
+                    )
+
+                except Exception as error:
+                    print(error)
+
+            tString = """
+                        <toast>
+                            <visual>
+                                <binding template='ToastGeneric'>
+                                    <text>
+                        """ + exists["ids"][key] + " has new updates! " + """
+                                    </text>
+                                    <text> 
+                        """ + "Checked on " + sDate + ": \n\n" + "There have been " + \
+                      str(nUps) + " updates since last checked on " + format_time(int(e)) + """
+                                    </text>
+                                </binding>
+                            </visual>
+                            <audio silent='True'/>
+                        </toast>
+                          """
+
+            # add notif
+
+            # convert notification to an XmlDocument
+            xDoc = dom.XmlDocument()
+            xDoc.load_xml(tString)
+
+            # display notification
+            notifier.show(notifications.ToastNotification(xDoc))
+
+    except TypeError as e:
+        print("A TypeError. Oops! Error: ", e)
+
+
+def validTime(tTemp):
+    time = md.markdownify(tTemp, heading_style="ATX")
+    time = re.search("(?P<url>https?://[^\s]+)", time).group("url")
+    time = " ".join(re.findall("[0-9]+", time))
+    return time
+
+
+def format_time(temp):
+    fTime = datetime.fromtimestamp(temp).strftime("%B %d, %A at %I:%M%p")
+    return fTime
+
+def inTodo(exists, name, modded, time, tstamp):
+    global nEvents
     try:
         if name not in exists["events"].keys():
+            nEvents += name + "\n"
             add = {name: {"modified": "", "due": ""}}
             exists["events"].update(add)
 
             exists["events"][name]["modified"] = modded
             exists["events"][name]["due"] = time
+            exists["events"][name]["tstamp"] = tstamp
 
             print('Task: ' + name + ' has been added!')
             with open('store.json', 'w', encoding="utf-8") as f:
@@ -94,8 +283,10 @@ def inTodo(name, modded, exists, time):
             return 0
 
         elif exists["events"][name]["modified"] != modded:
+            nEvents += "UPDATED: " + name + "\n"
             exists["events"][name]["modified"] = modded
             exists["events"][name]["due"] = time
+            exists["events"][name]["tstamp"] = tstamp
 
             print('Task has been recently modified!')
             with open('store.json', 'w', encoding="utf-8") as f:
@@ -103,7 +294,7 @@ def inTodo(name, modded, exists, time):
             return 1
 
         elif exists["events"][name]["modified"] == modded:
-            print('Task: ' + name + ' has already been added!')
+            delTodo(exists, name)
             return 2
 
     except KeyError as e:
@@ -112,56 +303,13 @@ def inTodo(name, modded, exists, time):
     print('\n')
 
 
-def updates(key, ids, exists):
-    try:
-        sKey = str(key)
-        e = exists["update"][sKey]
-
-        dUpdate = (xu('core_course_get_updates_since', courseid=key, since=e))
-        print(dUpdate)
-
-        if dUpdate['instances']:
-            for x in range(len(dUpdate['instances'])):
-                uList = "**Updates on:** "
-                d = datetime.fromtimestamp(int(e)).strftime("%B %d, %Y | %H:%M:%S")
-                header = "* UPDATE on a " + dUpdate['instances'][x]['contextlevel'] + "!"
-
-                rUpdates = len((dUpdate['instances'][x]["updates"]))
-                for y in range(rUpdates):
-                    if not y == (rUpdates - 1):
-                        uList += dUpdate['instances'][x]["updates"][y]["name"] + ", "
-                    else:
-                        uList += dUpdate['instances'][x]["updates"][y]["name"] + "."
-
-                desc = "**Updated since:** " + d + "\n" + uList + "\n **ID:** " + str(dUpdate['instances'][x]['id'])
-
-                exists["update"][sKey] = str(round(datetime.timestamp(datetime.now())))
-
-                try:
-                    doist.add_task(
-                        content=header,
-                        description=desc,
-                        due_lang='en',
-                        priority=1,
-                        label_ids=[
-                            ids[key],
-                            2159902367],
-                        section_id=97223485,
-                    )
-
-                except Exception as error:
-                    print(error)
-
-    except TypeError as e:
-        print("A TypeError. Oops! Error: ", e)
-
-
-def validTime(tTemp):
-    time = md.markdownify(tTemp, heading_style="ATX")
-    time = re.sub(r'https?:\/\/\S*', '', time)
-    time = " ".join(re.findall("[a-zA-Z0-9:,]+", time))
-
-    return time
+def delTodo(exists, name):
+    now = datetime.now()
+    if int(exists["events"][name]["tstamp"]) < int(datetime.timestamp(now)):
+        print("Task: " + name + " has been added AND is past the deadline! Deleting...")
+        del exists["events"][name]
+    else:
+        print("Task: " + name + " has been added AND is within deadline!")
 
 
 if __name__ == '__main__':

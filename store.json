@@ -1,318 +1,54 @@
 {
   "events": {
-    "Lesson 1.6: Implementation Methods should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Friday, 4 November 11:59 PM"
-    },
-    "Lesson 1.7: Programming Environments should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Friday, 4 November 11:59 PM"
-    },
-    "End of Module Assessment 1: Introduction to Programming Languages should be completed": {
-      "modified": "September 01 2022, 23:12:38",
-      "due": "Friday, 4 November 11:59 PM"
-    },
-    "BLUE FORM SUBMISSION Link is due": {
-      "modified": "October 06 2022, 01:41:47",
-      "due": "Saturday, 8 October 11:59 PM"
-    },
-    "PH 23 MIDTERM EXAMINATION opens": {
-      "modified": "October 09 2022, 19:11:51",
-      "due": "Friday, 14 October 7:30 AM"
-    },
-    "PH 23 MIDTERM EXAMINATION closes": {
-      "modified": "October 09 2022, 19:11:51",
-      "due": "Friday, 14 October 6:00 PM"
-    },
-    "Quiz 2 opens": {
-      "modified": "October 11 2022, 09:26:55",
-      "due": "Friday, 14 October 7:30 AM"
-    },
-    "Quiz 2 closes": {
-      "modified": "October 11 2022, 09:26:55",
-      "due": "Friday, 14 October 9:00 AM"
-    },
-    "2201-Online Course Evaluation (CAS) opens": {
-      "modified": "October 18 2022, 15:42:16",
-      "due": "Monday, 24 October 11:17 AM"
-    },
-    "Lesson 2.0: Programming Paradigms should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Saturday, 12 November 11:59 PM"
-    },
-    "Project Deliverable 5: Software Design Diagrams is due": {
-      "modified": "October 14 2022, 15:32:27",
-      "due": "Saturday, 29 October 11:59 PM"
-    },
-    "Activity 5: Step 3: Wire Frame and Step 4: UX Prototype is due": {
-      "modified": "October 14 2022, 16:35:07",
-      "due": "Thursday, 20 October 11:59 PM"
-    },
-    "Activity 6: Color Psychology is due": {
-      "modified": "October 14 2022, 16:35:07",
-      "due": "Thursday, 20 October 11:59 PM"
-    },
-    "Assignment # 1  is due": {
-      "modified": "October 14 2022, 11:27:43",
-      "due": "Friday, 21 October 5:00 PM"
-    },
-    "Activity 4: Imperative Programming in C should be completed": {
-      "modified": "September 11 2022, 21:35:46",
-      "due": "Friday, 18 November 11:59 PM"
-    },
-    "Activity 5: Object-Oriented Programming in Java should be completed": {
-      "modified": "September 21 2022, 22:18:35",
-      "due": "Friday, 18 November 11:59 PM"
-    },
-    "End of Module Assessment 3: Syntax closes": {
-      "modified": "October 20 2022, 21:39:36",
-      "due": "Tomorrow 11:59 PM"
-    },
-    "Activity 6: Logic Programming in Prolog should be completed": {
-      "modified": "October 01 2022, 08:58:18",
-      "due": "Friday, 18 November 11:59 PM"
-    },
-    "Reporting is due": {
-      "modified": "November 13 2022, 13:37:25",
-      "due": "Tuesday, 15 November 12:00 PM"
-    },
-    "Activity 7: Functional Programming in Common LISP should be completed": {
-      "modified": "October 03 2022, 20:40:14",
-      "due": "Friday, 18 November 11:59 PM"
-    },
-    "Lesson 2.1.1: Imperative Programming should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Friday, 18 November 11:59 PM"
-    },
-    "Lesson 2.1.2: C Programming should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Friday, 18 November 11:59 PM"
-    },
-    "Lesson 2.2.1: Object-Oriented Programming should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Friday, 18 November 11:59 PM"
-    },
-    "Lesson 2.2.2: Java Programming should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Friday, 18 November 11:59 PM"
-    },
-    "Lesson 2.3.1: Logic Programming should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Friday, 18 November 11:59 PM"
-    },
-    "Lesson 2.3.2: Prolog Programming should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Friday, 18 November 11:59 PM"
-    },
-    "Lesson 2.4.1: Functional Programming should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Friday, 18 November 11:59 PM"
-    },
-    "Lesson 2.4.2: Common LISP Programming should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Friday, 18 November 11:59 PM"
-    },
-    "Activity 8: Derivations and Parse Trees is due": {
-      "modified": "November 25 2022, 09:08:40",
-      "due": "Today 11:59 PM"
-    },
-    "Unit 6 Quiz Correlation Analysis opens": {
-      "modified": "November 05 2022, 20:41:56",
-      "due": "Monday, 7 November 1:30 PM"
-    },
-    "Unit 6 Quiz Correlation Analysis closes": {
-      "modified": "November 05 2022, 20:41:56",
-      "due": "Monday, 7 November 3:00 PM"
-    },
-    "Constructed Response (DUE ON: November 11, 2022 5PM) closes": {
-      "modified": "November 07 2022, 08:22:05",
-      "due": "Friday, 11 November 5:00 PM"
-    },
-    "Activity 8: Derivations and Parse Trees should be completed": {
-      "modified": "November 25 2022, 09:08:40",
-      "due": "Thursday, 1 December 11:59 PM"
-    },
-    "Milestone 1 Submission Link is due": {
-      "modified": "November 11 2022, 17:28:07",
-      "due": "Today 11:59 PM"
-    },
-    "Lesen und Schreiben (Reading and Writing) is due": {
-      "modified": "November 11 2022, 16:11:57",
-      "due": "Today 2:00 PM"
-    },
-    "Wer bin ich und was mache ich gern? (Das Video) is due": {
-      "modified": "November 11 2022, 16:07:35",
-      "due": "Tuesday, 15 November 12:00 AM"
-    },
-    "Lesson 3.2: Formal Methods of Describing Syntax should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Thursday, 1 December 11:59 PM"
-    },
-    "Constructed Response (EXTENDED DUE ON: November 15, 2022 11:59PM) closes": {
-      "modified": "November 15 2022, 21:43:10",
-      "due": "Today 11:59 PM"
-    },
-    "INSIGHTS (EXTENDED DUE ON: November 15, 2022 11:59PM) is due": {
-      "modified": "November 15 2022, 18:40:34",
-      "due": "Today 11:59 PM"
-    },
-    "INSIGHTS (EXTENDED DUE ON: November 16, 2022 11:59PM) is due": {
-      "modified": "November 15 2022, 21:45:21",
-      "due": "Today 11:59 PM"
-    },
-    "Quiz: Regression Analysis closes": {
-      "modified": "November 16 2022, 07:23:13",
-      "due": "Today 3:00 PM"
-    },
-    "Project Proposal is due": {
-      "modified": "November 18 2022, 10:40:49",
-      "due": "Today 11:59 PM"
-    },
-    "Lesson 3.3: Parsing Techniques and Tools should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Thursday, 1 December 11:59 PM"
-    },
-    "Lesson 3.4: Lexics vs Syntax vs Semantics should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Thursday, 1 December 11:59 PM"
-    },
-    "Lesson 3.1: The Study of Syntax should be completed": {
-      "modified": "October 12 2022, 15:44:09",
-      "due": "Thursday, 1 December 11:59 PM"
-    },
-    "End of Module Assessment 3: Syntax should be completed": {
-      "modified": "October 24 2022, 17:36:05",
-      "due": "Friday, 9 December 12:00 AM"
-    },
-    "Reporting Videos should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Friday, 16 December 11:52 PM"
-    },
-    "Lesson 4.1.0: Introduction to Formal Semantics should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Friday, 16 December 11:59 PM"
-    },
-    "Lesson 4.1.1: Operational Semantics should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Friday, 16 December 11:59 PM"
-    },
-    "Lesson 4.1.2: Denotational Semantics should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Friday, 16 December 11:59 PM"
-    },
-    "Lesson 4.1.3: Axiomatic Semantics should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Friday, 16 December 11:59 PM"
-    },
-    "Lesson 4.2.1: Names, Bindings, and Scopes should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Friday, 16 December 11:59 PM"
-    },
-    "Lesson 4.2.2: Data Types should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Friday, 16 December 11:59 PM"
-    },
-    "Lesson 4.2.3: Expressions and Assignment Statements should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Friday, 16 December 11:59 PM"
-    },
-    "Lesson 4.2.4: Statement-Level Control Structures should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Friday, 16 December 11:59 PM"
-    },
-    "Module 7 Onsite Group Activity is due": {
-      "modified": "November 24 2022, 08:08:08",
-      "due": "Today 11:59 PM"
-    },
-    "Final Project is due": {
-      "modified": "December 09 2022, 20:39:05",
-      "due": "Thursday, 15 December 11:59 PM"
-    },
-    "Activity 7: Personal Preference is due": {
-      "modified": "November 25 2022, 16:50:29",
-      "due": "Friday, 2 December 11:59 PM"
-    },
-    "SYNTHESIS opens": {
-      "modified": "November 27 2022, 15:41:48",
-      "due": "Friday, 2 December 9:00 AM"
-    },
-    "SEMI-FINAL EXAM is due": {
-      "modified": "December 07 2022, 10:08:05",
-      "due": "Thursday, 15 December 11:59 PM"
-    },
-    "SYNTHESIS closes": {
-      "modified": "November 27 2022, 15:41:48",
-      "due": "Sunday, 4 December 11:59 PM"
-    },
-    "Die erste Stunde im Kurs (The first hour in the Lesson) is due": {
-      "modified": "November 26 2022, 19:45:49",
-      "due": "Wednesday, 28 December 12:00 AM"
-    },
-    "Was sind Sie von Beruf? is due": {
-      "modified": "November 26 2022, 19:49:46",
-      "due": "Wednesday, 28 December 12:00 AM"
-    },
-    "Module 8 Quiz opens": {
-      "modified": "November 25 2022, 18:46:45",
-      "due": "Today 1:30 PM"
-    },
-    "Module 8 Quiz closes": {
-      "modified": "November 25 2022, 18:46:45",
-      "due": "Today 3:00 PM"
-    },
-    "Lesson 4.2.5: Subprograms should be completed": {
-      "modified": "August 11 2022, 10:51:14",
-      "due": "Friday, 16 December 11:59 PM"
-    },
-    "XU COVID-19 Vaccination Survey for Students  (Questionnaire Closes)": {
-      "modified": "November 08 2022, 15:53:10",
-      "due": "Saturday, 31 December 11:59 PM"
-    },
-    "PH 23 FINAL EXAMINATION opens": {
-      "modified": "December 05 2022, 13:33:05",
-      "due": "Wednesday, 7 December 7:30 AM"
-    },
-    "PH 23 FINAL EXAMINATION closes": {
-      "modified": "December 05 2022, 13:33:05",
-      "due": "Wednesday, 7 December 8:30 AM"
-    },
-    "PH 23 FINAL EXAMINATION should be completed": {
-      "modified": "December 05 2022, 13:33:05",
-      "due": "Wednesday, 7 December 11:59 PM"
-    },
-    "Project Source Code is due": {
-      "modified": "December 04 2022, 18:48:09",
-      "due": "Tomorrow 11:59 PM"
-    },
-    "Project Documentation is due": {
-      "modified": "December 04 2022, 18:48:24",
-      "due": "Tomorrow 11:59 PM"
-    },
-    "Project Presentation is due": {
-      "modified": "December 04 2022, 18:48:35",
-      "due": "Wednesday, 7 December 11:59 PM"
-    },
-    "Peer Evaluation Submission Link is due": {
-      "modified": "December 14 2022, 08:37:46",
-      "due": "Friday, 16 December 11:59 PM"
-    },
-    "Delayed Final Exam opens": {
-      "modified": "December 16 2022, 10:08:09",
-      "due": "Tomorrow 3:00 PM"
-    },
-    "Delayed Final Exam closes": {
-      "modified": "December 16 2022, 10:08:09",
-      "due": "Tomorrow 4:30 PM"
+    "1st Face-to-Face Session": {
+      "modified": "January 18, Wednesday at 01:42AM",
+      "due": "January 25, Wednesday at 03:00PM",
+      "tstamp": "1674630000"
+    },
+    "Personal Reflection/Insight is due": {
+      "modified": "January 21, Saturday at 10:27AM",
+      "due": "March 21, Tuesday at 11:59PM",
+      "tstamp": "1679414340"
+    },
+    "PLUS POINTS is due": {
+      "modified": "January 25, Wednesday at 10:31AM",
+      "due": "January 28, Saturday at 11:00PM",
+      "tstamp": "1674918000"
+    },
+    "Introduction to Software Testing should be completed": {
+      "modified": "January 18, Wednesday at 12:32AM",
+      "due": "April 07, Friday at 12:00AM",
+      "tstamp": "1680796800"
+    },
+    "[Research] Assignment 1 is due": {
+      "modified": "January 18, Wednesday at 12:32AM",
+      "due": "April 07, Friday at 12:00AM",
+      "tstamp": "1680796800"
+    },
+    "Summary of your Report is due": {
+      "modified": "January 21, Saturday at 10:27AM",
+      "due": "March 22, Wednesday at 11:59PM",
+      "tstamp": "1679500740"
     }
   },
+  "ids": {
+    "12678": "THEO_2_CCE",
+    "13231": "PHILO_25_CCE",
+    "13150": "ITCC_40_C",
+    "13155": "ITCC_42_C",
+    "13087": "ITCC_21.1_C",
+    "12548": "CSCC_22_B",
+    "13166": "CSCC_45_B",
+    "13184": "CSCC_33.1_B"
+  },
   "update": {
-    "10771": "1671534205",
-    "9505": "1665511939",
-    "10715": "1672658432",
-    "10717": "1668517154",
-    "9688": "1671534211",
-    "10871": "1671168509",
-    "9914": "1660219200",
-    "10523": "1671168511"
+    "12678": "1674374071",
+    "13231": "1674406873",
+    "13150": "1674369947",
+    "13155": "1674641116",
+    "13087": "1674470841",
+    "12548": "1674649997",
+    "13166": "1674369953",
+    "13184": "1674369956"
   }
 }
