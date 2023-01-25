@@ -1,0 +1,54 @@
+{
+  "events": {
+    "1st Face-to-Face Session": {
+      "modified": "January 18, Wednesday at 01:42AM",
+      "due": "January 25, Wednesday at 03:00PM",
+      "tstamp": "1674630000"
+    },
+    "Personal Reflection/Insight is due": {
+      "modified": "January 21, Saturday at 10:27AM",
+      "due": "March 21, Tuesday at 11:59PM",
+      "tstamp": "1679414340"
+    },
+    "PLUS POINTS is due": {
+      "modified": "January 25, Wednesday at 10:31AM",
+      "due": "January 28, Saturday at 11:00PM",
+      "tstamp": "1674918000"
+    },
+    "Introduction to Software Testing should be completed": {
+      "modified": "January 18, Wednesday at 12:32AM",
+      "due": "April 07, Friday at 12:00AM",
+      "tstamp": "1680796800"
+    },
+    "[Research] Assignment 1 is due": {
+      "modified": "January 18, Wednesday at 12:32AM",
+      "due": "April 07, Friday at 12:00AM",
+      "tstamp": "1680796800"
+    },
+    "Summary of your Report is due": {
+      "modified": "January 21, Saturday at 10:27AM",
+      "due": "March 22, Wednesday at 11:59PM",
+      "tstamp": "1679500740"
+    }
+  },
+  "ids": {
+    "12678": "THEO_2_CCE",
+    "13231": "PHILO_25_CCE",
+    "13150": "ITCC_40_C",
+    "13155": "ITCC_42_C",
+    "13087": "ITCC_21.1_C",
+    "12548": "CSCC_22_B",
+    "13166": "CSCC_45_B",
+    "13184": "CSCC_33.1_B"
+  },
+  "update": {
+    "12678": "1674374071",
+    "13231": "1674406873",
+    "13150": "1674369947",
+    "13155": "1674641116",
+    "13087": "1674470841",
+    "12548": "1674649997",
+    "13166": "1674369953",
+    "13184": "1674369956"
+  }
+}
