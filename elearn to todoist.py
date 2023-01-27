@@ -1,11 +1,8 @@
-import sys
-
 import markdownify as md
 import re
 import json
 import os
 import traceback
-import time as tm
 import winrt.windows.ui.notifications as notifications
 import winrt.windows.data.xml.dom as dom
 
@@ -27,6 +24,10 @@ nEvents = ""
 nManager = notifications.ToastNotificationManager
 notifier = nManager.create_toast_notifier("C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python39\\python.exe")
 
+nUps = 0
+nTasks = 0
+
+
 def main():
     print("Running on " + date)
 
@@ -38,7 +39,6 @@ def main():
 
     for key in exists["ids"]:
         try:
-            check = int
             dCal = xu('core_calendar_get_action_events_by_course', courseid=key)
             # for key2, value in dict.items(dCal):
             # print(key2, ' : ', value)
@@ -47,25 +47,39 @@ def main():
             updates(key, exists["ids"], exists)
 
             for event in dCal['events']:
-                check = todo(event, exists["ids"], key, exists)
+                todo(event, exists["ids"], key, exists)
 
-            print(check)
-            if check == 1:
+            sTemp = ""
+
+            if nUps or nTasks != 0:
+                sKey = str(key)
+                e = exists["update"][sKey]
+
+                if nUps == 1:
+                    sTemp += "There has been " + str(nUps) + " update since last checked on " + e + " and "
+                else:
+                    sTemp += "There have been " + str(nUps) + " update since last checked on " + e + " and "
+
+                if nTasks == 1:
+                    sTemp += str(nTasks) + " new requirement."
+                else:
+                    sTemp += str(nTasks) + " new requirements."
+
                 tString = """
-                <toast>
-                    <visual>
-                        <binding template='ToastGeneric'>
-                            <text>
-                """ + exists["ids"][key] + " has new requirements! " + """
-                            </text>
-                            <text> 
-                """ + "Checked on " + sDate + ": \n\n" + nEvents + """
-                            </text>
-                        </binding>
-                    </visual>
-                    <audio silent='True'/>
-                </toast>
-                  """
+                            <toast>
+                                <visual>
+                                    <binding template='ToastGeneric'>
+                                        <text>
+                            """ + exists["ids"][key] + " has new updates! " + """
+                                        </text>
+                                        <text> 
+                            """ + sTemp + format_time(int(e)) + """
+                                        </text>
+                                    </binding>
+                                </visual>
+                                <audio silent='True'/>
+                            </toast>
+                              """
 
                 # add notif
 
@@ -82,10 +96,10 @@ def main():
                 <visual>
                     <binding template='ToastGeneric'>
                         <text>
-            """ + "Error with" + exists["ids"][key] + "!" + """"
+            """ + "Error with " + exists["ids"][key] + "!" + """"
                         </text>
                         <text> 
-            """ + "Checked on " + sDate + ": \n\n" + traceback.format_exc() + """
+            """ + sDate + ": \n" + traceback.format_exc() + """
                         </text>
                     </binding>
                 </visual>
@@ -103,9 +117,7 @@ def main():
             notifier.show(notifications.ToastNotification(xDoc))
 
             print("\n")
-            print("Error with " + exists["ids"][key] + "! Details: ")
-            tm.sleep(0.01)
-            traceback.print_exc()
+            print("Error with " + exists["ids"][key] + "! Details: " + traceback.format_exc())
 
     print('________________________________________')
     with open('store.json', 'w') as f:
@@ -115,6 +127,8 @@ def main():
 def todo(event, ids, key, exists):
     name = event['name']
     eUrl = event['url']
+    global nTasks
+
     starts = ""
     desc = " "
     prio = ""
@@ -141,6 +155,8 @@ def todo(event, ids, key, exists):
     if result < 2:
         if result == 1:
             desc += '**RECENTLY MODIFIED!** \n\n'
+            if nTasks != 0:
+                nTasks -= 1
 
         try:
             dReq = md.markdownify(event['description'], heading_style="ATX")
@@ -158,16 +174,13 @@ def todo(event, ids, key, exists):
                     "NEW"],
                 section_id="96723857",
             )
+            nTasks += 1
         except Exception as error:
             print(error)
 
-        return 1
-
-    return 0
-
 
 def updates(key, ids, exists):
-    nUps = 0
+    global nUps
     tTemp = ""
 
     try:
@@ -224,32 +237,6 @@ def updates(key, ids, exists):
                 except Exception as error:
                     print(error)
 
-            tString = """
-                        <toast>
-                            <visual>
-                                <binding template='ToastGeneric'>
-                                    <text>
-                        """ + exists["ids"][key] + " has new updates! " + """
-                                    </text>
-                                    <text> 
-                        """ + "Checked on " + sDate + ": \n\n" + "There have been " + \
-                      str(nUps) + " updates since last checked on " + format_time(int(e)) + """
-                                    </text>
-                                </binding>
-                            </visual>
-                            <audio silent='True'/>
-                        </toast>
-                          """
-
-            # add notif
-
-            # convert notification to an XmlDocument
-            xDoc = dom.XmlDocument()
-            xDoc.load_xml(tString)
-
-            # display notification
-            notifier.show(notifications.ToastNotification(xDoc))
-
     except TypeError as e:
         print("A TypeError. Oops! Error: ", e)
 
@@ -264,6 +251,7 @@ def validTime(tTemp):
 def format_time(temp):
     fTime = datetime.fromtimestamp(temp).strftime("%B %d, %A at %I:%M%p")
     return fTime
+
 
 def inTodo(exists, name, modded, time, tstamp):
     global nEvents
