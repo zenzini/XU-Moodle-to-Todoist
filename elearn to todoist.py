@@ -26,9 +26,11 @@ notifier = nManager.create_toast_notifier("C:\\Users\\User\\AppData\\Local\\Prog
 
 nUps = 0
 nTasks = 0
+nTUps = 0
 
 
 def main():
+    global nUps, nTasks, nTUps
     print("Running on " + date)
 
     with open("store.json", 'r') as f:
@@ -44,6 +46,10 @@ def main():
             # print(key2, ' : ', value)
             # print('\n')
 
+            nUps = 0
+            nTasks = 0
+            nTUps = 0
+
             updates(key, exists["ids"], exists)
 
             for event in dCal['events']:
@@ -51,19 +57,30 @@ def main():
 
             sTemp = ""
 
-            if nUps or nTasks != 0:
+            print(nTasks)
+
+            if nUps or nTasks or nTUps != 0:
                 sKey = str(key)
                 e = exists["update"][sKey]
 
                 if nUps == 1:
-                    sTemp += "There has been " + str(nUps) + " update since last checked on " + e + " and "
+                    sTemp += "There has been " + str(nUps) + " update since last checked on " + \
+                             format_time(int(e))
                 else:
-                    sTemp += "There have been " + str(nUps) + " update since last checked on " + e + " and "
+                    sTemp += "There have been " + str(nUps) + " updates since last checked on " + \
+                             format_time(int(e))
 
-                if nTasks == 1:
-                    sTemp += str(nTasks) + " new requirement."
-                else:
-                    sTemp += str(nTasks) + " new requirements."
+                if nTasks == 0 & nTUps == 0:
+                    sTemp += ". "
+                elif nTasks != 0 & nTUps == 0:
+                    sTemp += " and " + str(nTasks) + " new requirement\s."
+                elif nTasks != 0 & nTUps != 0:
+                    sTemp += ", " + str(nTasks) + " new requirement\s and " + \
+                             str(nTUps) + " requirement\s updated."
+                elif nTasks == 0 & nTUps != 0:
+                    sTemp += " and " + str(nTUps) + " requirement\s updated."
+
+                exists["update"][sKey] = str(round(datetime.timestamp(datetime.now())))
 
                 tString = """
                             <toast>
@@ -73,7 +90,7 @@ def main():
                             """ + exists["ids"][key] + " has new updates! " + """
                                         </text>
                                         <text> 
-                            """ + sTemp + format_time(int(e)) + """
+                            """ + sTemp + """
                                         </text>
                                     </binding>
                                 </visual>
@@ -127,7 +144,7 @@ def main():
 def todo(event, ids, key, exists):
     name = event['name']
     eUrl = event['url']
-    global nTasks
+    now = datetime.now()
 
     starts = ""
     desc = " "
@@ -155,33 +172,31 @@ def todo(event, ids, key, exists):
     if result < 2:
         if result == 1:
             desc += '**RECENTLY MODIFIED!** \n\n'
-            if nTasks != 0:
-                nTasks -= 1
 
         try:
             dReq = md.markdownify(event['description'], heading_style="ATX")
             desc += (dReq + '--- \n\n **Opens:** ' + starts + '\n\n **Last modified:** ' + modded +
                      '\n\n**[Click me to open the requirement in E-Learn!](' + eUrl + ')**')
-
-            tToken.add_task(
-                content=name,
-                description=desc,
-                due_string=time,
-                due_lang='en',
-                priority=prio,
-                labels=[
-                    ids[key],
-                    "NEW"],
-                section_id="96723857",
-            )
-            nTasks += 1
+            if int(datetime.timestamp(now)) < int(tstamp):
+                tToken.add_task(
+                    content=name,
+                    description=desc,
+                    due_string=time,
+                    due_lang='en',
+                    priority=prio,
+                    labels=[
+                        ids[key],
+                        "NEW"],
+                    section_id="96723857",
+                )
+            else:
+                print(name + " is past deadline!")
         except Exception as error:
             print(error)
 
 
 def updates(key, ids, exists):
     global nUps
-    tTemp = ""
 
     try:
         sKey = str(key)
@@ -221,8 +236,6 @@ def updates(key, ids, exists):
                 desc = "\n **Update on " + cname + ",** specifically: \n" \
                        + uList + '\n\n --- \n\n**[Click me to open the update in E-Learn!](' + eUrl + ')**'
 
-                exists["update"][sKey] = str(round(datetime.timestamp(datetime.now())))
-
                 try:
                     tToken.add_task(
                         content=header,
@@ -254,10 +267,10 @@ def format_time(temp):
 
 
 def inTodo(exists, name, modded, time, tstamp):
-    global nEvents
+    global nTUps, nTasks
+
     try:
         if name not in exists["events"].keys():
-            nEvents += name + "\n"
             add = {name: {"modified": "", "due": ""}}
             exists["events"].update(add)
 
@@ -268,10 +281,11 @@ def inTodo(exists, name, modded, time, tstamp):
             print('Task: ' + name + ' has been added!')
             with open('store.json', 'w', encoding="utf-8") as f:
                 json.dump(exists, f, indent=2)
+
+            nTasks += 1
             return 0
 
         elif exists["events"][name]["modified"] != modded:
-            nEvents += "UPDATED: " + name + "\n"
             exists["events"][name]["modified"] = modded
             exists["events"][name]["due"] = time
             exists["events"][name]["tstamp"] = tstamp
@@ -279,6 +293,8 @@ def inTodo(exists, name, modded, time, tstamp):
             print('Task has been recently modified!')
             with open('store.json', 'w', encoding="utf-8") as f:
                 json.dump(exists, f, indent=2)
+
+            nTUps += 1
             return 1
 
         elif exists["events"][name]["modified"] == modded:

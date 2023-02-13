@@ -21,19 +21,94 @@
       "tstamp": "1675008000"
     },
     "[Research] Assignment 1 is due": {
-      "modified": "January 18, Wednesday at 12:32AM",
-      "due": "April 07, Friday at 12:00AM",
-      "tstamp": "1680796800"
-    },
-    "Version Control Systems 101 should be completed": {
-      "modified": "January 26, Thursday at 09:09AM",
-      "due": "February 02, Thursday at 12:00AM",
-      "tstamp": "1675267200"
+      "modified": "February 01, Wednesday at 12:53PM",
+      "due": "February 04, Saturday at 12:00AM",
+      "tstamp": "1675440000"
     },
     "Summary of your Report is due": {
       "modified": "January 21, Saturday at 10:27AM",
       "due": "March 22, Wednesday at 11:59PM",
       "tstamp": "1679500740"
+    },
+    "Takeaways/insights on Human Dignity is due": {
+      "modified": "January 21, Saturday at 10:27AM",
+      "due": "January 30, Monday at 11:59PM",
+      "tstamp": "1675094340"
+    },
+    "Week 2 assignment is due": {
+      "modified": "January 30, Monday at 07:56PM",
+      "due": "March 05, Sunday at 02:01PM",
+      "tstamp": "1677996060"
+    },
+    "Lab 1: CyberOps Workstation VM Installation is due": {
+      "modified": "January 29, Sunday at 07:22PM",
+      "due": "January 31, Tuesday at 11:50PM",
+      "tstamp": "1675180200"
+    },
+    "Human Dignity is due": {
+      "modified": "February 01, Wednesday at 09:34AM",
+      "due": "February 01, Wednesday at 11:55PM",
+      "tstamp": "1675266900"
+    },
+    "[Lab] Activity 1: Setting up your Local Dev Environment is due": {
+      "modified": "February 01, Wednesday at 02:22PM",
+      "due": "February 05, Sunday at 12:00AM",
+      "tstamp": "1675526400"
+    },
+    "Short Quiz 1 closes": {
+      "modified": "February 02, Thursday at 12:48PM",
+      "due": "February 04, Saturday at 11:59PM",
+      "tstamp": "1675526340"
+    },
+    "[Lab] Activity 2: Getting Started with Version Control System is due": {
+      "modified": "February 01, Wednesday at 02:18PM",
+      "due": "February 09, Thursday at 12:00AM",
+      "tstamp": "1675872000"
+    },
+    "Learning the Details of the Attack is due": {
+      "modified": "February 03, Friday at 09:25AM",
+      "due": "February 07, Tuesday at 11:30PM",
+      "tstamp": "1675783800"
+    },
+    "My takeaway #2 on Human Rights should be completed": {
+      "modified": "February 04, Saturday at 06:58AM",
+      "due": "February 07, Tuesday at 11:59PM",
+      "tstamp": "1675785540"
+    },
+    "Short Quiz 2 closes": {
+      "modified": "February 06, Monday at 11:20PM",
+      "due": "February 11, Saturday at 11:59PM",
+      "tstamp": "1676131140"
+    },
+    "[Lab] Activity 4: Git Basics 2 is due": {
+      "modified": "February 01, Wednesday at 02:22PM",
+      "due": "February 12, Sunday at 12:00AM",
+      "tstamp": "1676131200"
+    },
+    "Quiz 1  (1/4 paper) is due": {
+      "modified": "February 09, Thursday at 02:07PM",
+      "due": "February 16, Thursday at 12:00AM",
+      "tstamp": "1676476800"
+    },
+    "Activity 2 is due": {
+      "modified": "February 09, Thursday at 02:06PM",
+      "due": "February 09, Thursday at 03:00PM",
+      "tstamp": "1675926000"
+    },
+    "Prelim closes": {
+      "modified": "February 11, Saturday at 12:34PM",
+      "due": "February 14, Tuesday at 12:00PM",
+      "tstamp": "1676347200"
+    },
+    "F2F - PRELIM EXAM closes": {
+      "modified": "February 13, Monday at 08:12PM",
+      "due": "February 15, Wednesday at 03:00PM",
+      "tstamp": "1676444400"
+    },
+    "Familiarizing R Environment is due": {
+      "modified": "February 13, Monday at 03:01PM",
+      "due": "February 13, Monday at 02:51PM",
+      "tstamp": "1676271060"
     }
   },
   "ids": {
@@ -47,13 +122,13 @@
     "13184": "CSCC_33.1_B"
   },
   "update": {
-    "12678": "1674374071",
-    "13231": "1674406873",
-    "13150": "1674369947",
-    "13155": "1674795360",
-    "13087": "1674806151",
-    "12548": "1674806151",
-    "13166": "1674806151",
-    "13184": "1674806151"
+    "12678": "1676304885",
+    "13231": "1676213609",
+    "13150": "1675773646",
+    "13155": "1676293871",
+    "13087": "1676093025",
+    "12548": "1676292073",
+    "13166": "1676304907",
+    "13184": "1675096495"
   }
 }

@@ -1,0 +1,3438 @@
+Running on February 04 2023, Saturday at 10:30AM
+{'instances': [{'contextlevel': 'module', 'id': 1097606, 'updates': [{'name': 'configuration', 'timeupdated': 1675465232}]}, {'contextlevel': 'module', 'id': 1097610, 'updates': [{'name': 'configuration', 'timeupdated': 1675465126}]}], 'warnings': []}
+{'cm': {'id': 1097606, 'course': 12678, 'module': 15, 'name': 'LET US START WITH A PRAYER', 'modname': 'page', 'instance': 332715, 'section': 142844, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1097610, 'course': 12678, 'module': 9, 'name': 'My takeaway #2 on Human Rights', 'modname': 'forum', 'instance': 128795, 'section': 142844, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: My takeaway #2 on Human Rights is due has been added!
+Task: My takeaway #2 on Human Rights should be completed has been added!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+2
+Task: Short Quiz 1 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 04 2023, Saturday at 11:00AM
+{'instances': [{'contextlevel': 'module', 'id': 1097610, 'updates': [{'name': 'discussions', 'itemids': [919134]}]}], 'warnings': []}
+{'cm': {'id': 1097610, 'course': 12678, 'module': 9, 'name': 'My takeaway #2 on Human Rights', 'modname': 'forum', 'instance': 128795, 'section': 142844, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: My takeaway #2 on Human Rights is due has been added AND is within deadline!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 1 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 04 2023, Saturday at 11:30AM
+Task: My takeaway #2 on Human Rights is due has been added AND is within deadline!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 1 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 04 2023, Saturday at 12:00PM
+{'instances': [{'contextlevel': 'module', 'id': 1097610, 'updates': [{'name': 'discussions', 'itemids': [919134]}]}], 'warnings': []}
+{'cm': {'id': 1097610, 'course': 12678, 'module': 9, 'name': 'My takeaway #2 on Human Rights', 'modname': 'forum', 'instance': 128795, 'section': 142844, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: My takeaway #2 on Human Rights is due has been added AND is within deadline!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 1 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 04 2023, Saturday at 12:30PM
+Task: My takeaway #2 on Human Rights is due has been added AND is within deadline!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 1 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 04 2023, Saturday at 01:00PM
+Task: My takeaway #2 on Human Rights is due has been added AND is within deadline!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1129136, 'updates': [{'name': 'completion'}, {'name': 'gradeitems', 'itemids': [268072]}, {'name': 'attempts', 'itemids': [1280070]}, {'name': 'grades', 'itemids': [1118770]}]}], 'warnings': []}
+{'cm': {'id': 1129136, 'course': 13231, 'module': 16, 'name': 'Short Quiz 1', 'modname': 'quiz', 'instance': 79400, 'section': 146666, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 04 2023, Saturday at 01:30PM
+Task: My takeaway #2 on Human Rights is due has been added AND is within deadline!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 04 2023, Saturday at 02:00PM
+Task: My takeaway #2 on Human Rights is due has been added AND is within deadline!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 04 2023, Saturday at 02:30PM
+Task: My takeaway #2 on Human Rights is due has been added AND is within deadline!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 04 2023, Saturday at 03:00PM
+Task: My takeaway #2 on Human Rights is due has been added AND is within deadline!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 04 2023, Saturday at 03:30PM
+Task: My takeaway #2 on Human Rights is due has been added AND is within deadline!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 04 2023, Saturday at 04:00PM
+Task: My takeaway #2 on Human Rights is due has been added AND is within deadline!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 04 2023, Saturday at 04:30PM
+Task: My takeaway #2 on Human Rights is due has been added AND is within deadline!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 05 2023, Sunday at 02:25PM
+{'instances': [{'contextlevel': 'module', 'id': 1097610, 'updates': [{'name': 'discussions', 'itemids': [919134]}]}], 'warnings': []}
+{'cm': {'id': 1097610, 'course': 12678, 'module': 9, 'name': 'My takeaway #2 on Human Rights', 'modname': 'forum', 'instance': 128795, 'section': 142844, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: My takeaway #2 on Human Rights is due has been added AND is past the deadline! Deleting...
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1059528, 'updates': [{'name': 'discussions', 'itemids': [940027]}]}, {'contextlevel': 'module', 'id': 1105769, 'updates': [{'name': 'configuration', 'timeupdated': 1675522465}]}], 'warnings': []}
+{'cm': {'id': 1059528, 'course': 13087, 'module': 9, 'name': 'Announcements', 'modname': 'forum', 'instance': 124671, 'section': 144650, 'sectionnum': 0, 'groupmode': 0, 'groupingid': 0, 'completion': 0}, 'warnings': []}
+{'cm': {'id': 1105769, 'course': 13087, 'module': 15, 'name': 'Face to Face Schedule', 'modname': 'page', 'instance': 335321, 'section': 144650, 'sectionnum': 0, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 05 2023, Sunday at 02:55PM
+Task: My takeaway #2 on Human Rights is due has been added!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 05 2023, Sunday at 03:25PM
+Task: My takeaway #2 on Human Rights is due has been added AND is past the deadline! Deleting...
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 05 2023, Sunday at 03:55PM
+Task: My takeaway #2 on Human Rights is due has been added!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 05 2023, Sunday at 08:34PM
+{'instances': [{'contextlevel': 'module', 'id': 1097610, 'updates': [{'name': 'discussions', 'itemids': [919134]}]}], 'warnings': []}
+{'cm': {'id': 1097610, 'course': 12678, 'module': 9, 'name': 'My takeaway #2 on Human Rights', 'modname': 'forum', 'instance': 128795, 'section': 142844, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: My takeaway #2 on Human Rights is due has been added AND is past the deadline! Deleting...
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 05 2023, Sunday at 09:04PM
+Task: My takeaway #2 on Human Rights is due has been added!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 05 2023, Sunday at 09:34PM
+Task: My takeaway #2 on Human Rights is due has been added AND is past the deadline! Deleting...
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 05 2023, Sunday at 10:04PM
+Task: My takeaway #2 on Human Rights is due has been added!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 05 2023, Sunday at 10:34PM
+Task: My takeaway #2 on Human Rights is due has been added AND is past the deadline! Deleting...
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 05 2023, Sunday at 11:04PM
+Task: My takeaway #2 on Human Rights is due has been added!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 05 2023, Sunday at 11:34PM
+Task: My takeaway #2 on Human Rights is due has been added AND is past the deadline! Deleting...
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 12:04AM
+Task: My takeaway #2 on Human Rights is due has been added!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 12:34AM
+Task: My takeaway #2 on Human Rights is due has been added AND is past the deadline! Deleting...
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 01:04AM
+Task: My takeaway #2 on Human Rights is due has been added!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 01:34AM
+Task: My takeaway #2 on Human Rights is due has been added AND is past the deadline! Deleting...
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 02:04AM
+Task: My takeaway #2 on Human Rights is due has been added!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 10:53AM
+Task: My takeaway #2 on Human Rights is due has been added AND is past the deadline! Deleting...
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 11:22AM
+Task: My takeaway #2 on Human Rights is due has been added!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 11:52AM
+Task: My takeaway #2 on Human Rights is due has been added AND is past the deadline! Deleting...
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 12:22PM
+Task: My takeaway #2 on Human Rights is due has been added!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 12:52PM
+{'instances': [{'contextlevel': 'module', 'id': 1097610, 'updates': [{'name': 'discussions', 'itemids': [919134]}]}], 'warnings': []}
+{'cm': {'id': 1097610, 'course': 12678, 'module': 9, 'name': 'My takeaway #2 on Human Rights', 'modname': 'forum', 'instance': 128795, 'section': 142844, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: My takeaway #2 on Human Rights is due has been added AND is past the deadline! Deleting...
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 01:22PM
+Task: My takeaway #2 on Human Rights is due has been added!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 01:52PM
+Task: My takeaway #2 on Human Rights is due has been added AND is past the deadline! Deleting...
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 02:22PM
+Task: My takeaway #2 on Human Rights is due has been added!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 02:52PM
+Task: My takeaway #2 on Human Rights is due has been added AND is past the deadline! Deleting...
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 03:22PM
+Task: My takeaway #2 on Human Rights is due has been added!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 03:52PM
+Task: My takeaway #2 on Human Rights is due has been added AND is past the deadline! Deleting...
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 04:22PM
+Task: My takeaway #2 on Human Rights is due has been added!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 04:52PM
+Task: My takeaway #2 on Human Rights is due has been added AND is past the deadline! Deleting...
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 05:22PM
+Task: My takeaway #2 on Human Rights is due has been added!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 05:52PM
+Task: My takeaway #2 on Human Rights is due has been added AND is past the deadline! Deleting...
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 06:22PM
+Task: My takeaway #2 on Human Rights is due has been added!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 06:52PM
+Task: My takeaway #2 on Human Rights is due has been added AND is past the deadline! Deleting...
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 10:12PM
+{'instances': [{'contextlevel': 'module', 'id': 1097610, 'updates': [{'name': 'discussions', 'itemids': [919134]}]}], 'warnings': []}
+{'cm': {'id': 1097610, 'course': 12678, 'module': 9, 'name': 'My takeaway #2 on Human Rights', 'modname': 'forum', 'instance': 128795, 'section': 142844, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: My takeaway #2 on Human Rights is due has been added!
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+{'instances': [{'contextlevel': 'module', 'id': 1133796, 'updates': [{'name': 'configuration', 'timeupdated': 1675684376}, {'name': 'contentfiles', 'itemids': [56167290]}]}], 'warnings': []}
+{'cm': {'id': 1133796, 'course': 13231, 'module': 17, 'name': 'Preliminaries PowerPoint Presentation', 'modname': 'resource', 'instance': 126784, 'section': 146665, 'sectionnum': 1, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+0
+{'instances': [{'contextlevel': 'module', 'id': 1129452, 'updates': [{'name': 'configuration', 'timeupdated': 1675682694}]}], 'warnings': []}
+{'cm': {'id': 1129452, 'course': 13150, 'module': 1, 'name': 'Activity 1: Setting up your Local Dev Environment', 'modname': 'assign', 'instance': 133260, 'section': 144907, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 2}, 'warnings': []}
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 10:42PM
+{'instances': [{'contextlevel': 'module', 'id': 1097610, 'updates': [{'name': 'discussions', 'itemids': [919134]}]}], 'warnings': []}
+{'cm': {'id': 1097610, 'course': 12678, 'module': 9, 'name': 'My takeaway #2 on Human Rights', 'modname': 'forum', 'instance': 128795, 'section': 142844, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: My takeaway #2 on Human Rights is due has been added AND is past the deadline! Deleting...
+Task: My takeaway #2 on Human Rights should be completed has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1129136, 'updates': [{'name': 'configuration', 'timeupdated': 1675693665}]}], 'warnings': []}
+{'cm': {'id': 1129136, 'course': 13231, 'module': 16, 'name': 'Short Quiz 1', 'modname': 'quiz', 'instance': 79400, 'section': 146666, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 11:12PM
+{'instances': [{'contextlevel': 'module', 'id': 1097610, 'updates': [{'name': 'completion'}]}], 'warnings': []}
+{'cm': {'id': 1097610, 'course': 12678, 'module': 9, 'name': 'My takeaway #2 on Human Rights', 'modname': 'forum', 'instance': 128795, 'section': 142844, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 06 2023, Monday at 11:42PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1133910, 'updates': [{'name': 'configuration', 'timeupdated': 1675696826}, {'name': 'questions', 'itemids': [9136437, 9136438, 9136439, 9136440, 9136441, 9136442, 9136443, 9136444, 9136452, 9136453]}]}], 'warnings': []}
+{'cm': {'id': 1133910, 'course': 13231, 'module': 16, 'name': 'Short Quiz 2', 'modname': 'quiz', 'instance': 79720, 'section': 146666, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Short Quiz 2 closes has been added!
+1
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 07 2023, Tuesday at 12:12AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 07 2023, Tuesday at 12:42AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 07 2023, Tuesday at 01:12AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 07 2023, Tuesday at 01:42AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 07 2023, Tuesday at 02:12AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 07 2023, Tuesday at 08:40PM
+{'instances': [{'contextlevel': 'module', 'id': 1097610, 'updates': [{'name': 'discussions', 'itemids': [919134]}]}], 'warnings': []}
+{'cm': {'id': 1097610, 'course': 12678, 'module': 9, 'name': 'My takeaway #2 on Human Rights', 'modname': 'forum', 'instance': 128795, 'section': 142844, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1134178, 'updates': [{'name': 'configuration', 'timeupdated': 1675749165}, {'name': 'completion'}, {'name': 'gradeitems', 'itemids': [269077]}, {'name': 'submissions', 'itemids': [2314365]}, {'name': 'grades', 'itemids': [1815048]}]}], 'warnings': []}
+{'cm': {'id': 1134178, 'course': 13150, 'module': 1, 'name': 'CLASS EXERCISE 2', 'modname': 'assign', 'instance': 133671, 'section': 144907, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+0
+{'instances': [{'contextlevel': 'module', 'id': 1082170, 'updates': [{'name': 'configuration', 'timeupdated': 1675745972}]}], 'warnings': []}
+{'cm': {'id': 1082170, 'course': 13155, 'module': 9, 'name': 'Announcements ', 'modname': 'forum', 'instance': 127515, 'section': 144925, 'sectionnum': 0, 'groupmode': 0, 'groupingid': 0, 'completion': 0}, 'warnings': []}
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 07 2023, Tuesday at 09:10PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 07 2023, Tuesday at 09:40PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 07 2023, Tuesday at 10:10PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 07 2023, Tuesday at 10:40PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 07 2023, Tuesday at 11:10PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 07 2023, Tuesday at 11:40PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 12:10AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 12:40AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 01:10AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 01:40AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 02:10AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 02:40AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 2: Getting Started with Version Control System is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 04:07PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+{'instances': [{'contextlevel': 'module', 'id': 1135597, 'updates': [{'name': 'configuration', 'timeupdated': 1675837915}, {'name': 'contentfiles', 'itemids': [56248689]}]}], 'warnings': []}
+{'cm': {'id': 1135597, 'course': 13155, 'module': 17, 'name': 'Requirements for SLP', 'modname': 'resource', 'instance': 127074, 'section': 150899, 'sectionnum': 7, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1105764, 'updates': [{'name': 'gradeitems', 'itemids': [262122]}, {'name': 'grades', 'itemids': [1807145]}]}], 'warnings': []}
+{'cm': {'id': 1105764, 'course': 13087, 'module': 1, 'name': 'Cyber Security Case Studies', 'modname': 'assign', 'instance': 129992, 'section': 144652, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+0
+{'instances': [{'contextlevel': 'module', 'id': 1083553, 'updates': [{'name': 'configuration', 'timeupdated': 1675835230}, {'name': 'completion'}, {'name': 'gradeitems', 'itemids': [257259]}, {'name': 'submissions', 'itemids': [2303661]}, {'name': 'grades', 'itemids': [1816471]}]}, {'contextlevel': 'module', 'id': 1083554, 'updates': [{'name': 'completion'}, {'name': 'gradeitems', 'itemids': [257260]}, {'name': 'submissions', 'itemids': [2316923]}, {'name': 'grades', 'itemids': [1816529]}]}, {'contextlevel': 'module', 'id': 1083555, 'updates': [{'name': 'submissions', 'itemids': [2317029]}]}], 'warnings': []}
+{'cm': {'id': 1083553, 'course': 12548, 'module': 1, 'name': '[Lab] Activity 2: Getting Started with Version Control System', 'modname': 'assign', 'instance': 127678, 'section': 147323, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 2}, 'warnings': []}
+{'cm': {'id': 1083554, 'course': 12548, 'module': 1, 'name': '[Lab] Activity 3: Git Basics 1', 'modname': 'assign', 'instance': 127679, 'section': 147323, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 2}, 'warnings': []}
+{'cm': {'id': 1083555, 'course': 12548, 'module': 1, 'name': '[Lab] Activity 4: Git Basics 2', 'modname': 'assign', 'instance': 127680, 'section': 147323, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 2}, 'warnings': []}
+Task: [Lab] Activity 4: Git Basics 2 is due has been added!
+1
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 04:37PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 05:07PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 05:37PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 06:07PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 06:37PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 07:07PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 07:37PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 08:07PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 08:37PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 09:07PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 09:37PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 10:07PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 10:37PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 11:07PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 08 2023, Wednesday at 11:37PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 09 2023, Thursday at 12:07AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 09 2023, Thursday at 11:17AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 09 2023, Thursday at 11:37AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 09 2023, Thursday at 12:07PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 09 2023, Thursday at 12:37PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 09 2023, Thursday at 01:07PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+{'instances': [{'contextlevel': 'module', 'id': 1136279, 'updates': [{'name': 'configuration', 'timeupdated': 1675919100}, {'name': 'contentfiles', 'itemids': [56290521]}]}], 'warnings': []}
+{'cm': {'id': 1136279, 'course': 13155, 'module': 17, 'name': 'Orientation PPT', 'modname': 'resource', 'instance': 127177, 'section': 144928, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1136275, 'updates': [{'name': 'configuration', 'timeupdated': 1675918950}]}, {'contextlevel': 'module', 'id': 1136277, 'updates': [{'name': 'configuration', 'timeupdated': 1675919038}, {'name': 'pages', 'itemids': [53065]}, {'name': 'answers', 'itemids': [103262]}]}], 'warnings': []}
+{'cm': {'id': 1136275, 'course': 13166, 'module': 20, 'name': 'Intro to Machine Learning', 'modname': 'url', 'instance': 122897, 'section': 144971, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1136277, 'course': 13166, 'module': 13, 'name': 'Readings on Machine Learning ', 'modname': 'lesson', 'instance': 23358, 'section': 144971, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+0
+0
+________________________________________
+Running on February 09 2023, Thursday at 01:37PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1136277, 'updates': [{'name': 'pages', 'itemids': [53066]}, {'name': 'answers', 'itemids': [103263]}]}], 'warnings': []}
+{'cm': {'id': 1136277, 'course': 13166, 'module': 13, 'name': 'Readings on Machine Learning ', 'modname': 'lesson', 'instance': 23358, 'section': 144971, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+0
+0
+________________________________________
+Running on February 09 2023, Thursday at 02:07PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1136289, 'updates': [{'name': 'configuration', 'timeupdated': 1675922810}]}], 'warnings': []}
+{'cm': {'id': 1136289, 'course': 13166, 'module': 1, 'name': 'Activity 2', 'modname': 'assign', 'instance': 133915, 'section': 144971, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Activity 2 is due has been added!
+1
+0
+________________________________________
+Running on February 09 2023, Thursday at 02:37PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1136290, 'updates': [{'name': 'configuration', 'timeupdated': 1675922864}]}], 'warnings': []}
+{'cm': {'id': 1136290, 'course': 13166, 'module': 1, 'name': 'Quiz 1  (1/4 paper)', 'modname': 'assign', 'instance': 133916, 'section': 144971, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Activity 2 is due has been added AND is within deadline!
+Task: Quiz 1  (1/4 paper) is due has been added!
+1
+0
+________________________________________
+Running on February 09 2023, Thursday at 03:07PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+Task: Activity 2 is due has been added AND is past the deadline! Deleting...
+Task: Quiz 1  (1/4 paper) is due has been added AND is within deadline!
+0
+0
+________________________________________
+Running on February 09 2023, Thursday at 03:37PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+Task: Activity 2 is due has been added!
+Task: Quiz 1  (1/4 paper) is due has been added AND is within deadline!
+1
+0
+________________________________________
+Running on February 09 2023, Thursday at 04:07PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1136277, 'updates': [{'name': 'completion'}]}, {'contextlevel': 'module', 'id': 1136289, 'updates': [{'name': 'submissions', 'itemids': [2319974]}]}, {'contextlevel': 'module', 'id': 1136290, 'updates': [{'name': 'submissions', 'itemids': [2319975]}]}], 'warnings': []}
+{'cm': {'id': 1136277, 'course': 13166, 'module': 13, 'name': 'Readings on Machine Learning ', 'modname': 'lesson', 'instance': 23358, 'section': 144971, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1136289, 'course': 13166, 'module': 1, 'name': 'Activity 2', 'modname': 'assign', 'instance': 133915, 'section': 144971, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1136290, 'course': 13166, 'module': 1, 'name': 'Quiz 1  (1/4 paper)', 'modname': 'assign', 'instance': 133916, 'section': 144971, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Activity 2 is due has been added AND is past the deadline! Deleting...
+Task: Quiz 1  (1/4 paper) is due has been added AND is within deadline!
+0
+0
+________________________________________
+Running on February 09 2023, Thursday at 04:37PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+Task: Activity 2 is due has been added!
+Task: Quiz 1  (1/4 paper) is due has been added AND is within deadline!
+1
+0
+________________________________________
+Running on February 09 2023, Thursday at 05:07PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+Task: Activity 2 is due has been added AND is past the deadline! Deleting...
+Task: Quiz 1  (1/4 paper) is due has been added AND is within deadline!
+0
+0
+________________________________________
+Running on February 09 2023, Thursday at 05:37PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+Task: Activity 2 is due has been added!
+Task: Quiz 1  (1/4 paper) is due has been added AND is within deadline!
+1
+0
+________________________________________
+Running on February 09 2023, Thursday at 06:07PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+Task: Activity 2 is due has been added AND is past the deadline! Deleting...
+Task: Quiz 1  (1/4 paper) is due has been added AND is within deadline!
+0
+0
+________________________________________
+Running on February 09 2023, Thursday at 06:37PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+Task: Activity 2 is due has been added!
+Task: Quiz 1  (1/4 paper) is due has been added AND is within deadline!
+1
+0
+________________________________________
+Running on February 09 2023, Thursday at 07:07PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+Task: Activity 2 is due has been added AND is past the deadline! Deleting...
+Task: Quiz 1  (1/4 paper) is due has been added AND is within deadline!
+0
+0
+________________________________________
+Running on February 09 2023, Thursday at 07:37PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+Task: Activity 2 is due has been added!
+Task: Quiz 1  (1/4 paper) is due has been added AND is within deadline!
+1
+0
+________________________________________
+Running on February 09 2023, Thursday at 08:07PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1136289, 'updates': [{'name': 'completion'}]}, {'contextlevel': 'module', 'id': 1136290, 'updates': [{'name': 'completion'}]}], 'warnings': []}
+{'cm': {'id': 1136289, 'course': 13166, 'module': 1, 'name': 'Activity 2', 'modname': 'assign', 'instance': 133915, 'section': 144971, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1136290, 'course': 13166, 'module': 1, 'name': 'Quiz 1  (1/4 paper)', 'modname': 'assign', 'instance': 133916, 'section': 144971, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+0
+0
+________________________________________
+Running on February 09 2023, Thursday at 08:37PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 09 2023, Thursday at 09:07PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 09 2023, Thursday at 09:37PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 09 2023, Thursday at 10:07PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 09 2023, Thursday at 10:37PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 09 2023, Thursday at 11:07PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1129136, 'updates': [{'name': 'configuration', 'timeupdated': 1675954519}]}], 'warnings': []}
+{'cm': {'id': 1129136, 'course': 13231, 'module': 16, 'name': 'Short Quiz 1', 'modname': 'quiz', 'instance': 79400, 'section': 146666, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 09 2023, Thursday at 11:37PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1124758, 'updates': [{'name': 'configuration', 'timeupdated': 1675955837}]}, {'contextlevel': 'module', 'id': 1136476, 'updates': [{'name': 'configuration', 'timeupdated': 1675955282}, {'name': 'contentfiles', 'itemids': [56315554]}]}, {'contextlevel': 'module', 'id': 1129136, 'updates': [{'name': 'configuration', 'timeupdated': 1675955317}]}, {'contextlevel': 'module', 'id': 1124761, 'updates': [{'name': 'configuration', 'timeupdated': 1675955848}]}], 'warnings': []}
+{'cm': {'id': 1124758, 'course': 13231, 'module': 12, 'name': 'PETER BERGER: FROM FATE TO CHOICE', 'modname': 'label', 'instance': 131430, 'section': 146666, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1136476, 'course': 13231, 'module': 17, 'name': 'Discussion Slides', 'modname': 'resource', 'instance': 127220, 'section': 146666, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1129136, 'course': 13231, 'module': 16, 'name': 'Short Quiz 1', 'modname': 'quiz', 'instance': 79400, 'section': 146666, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1124761, 'course': 13231, 'module': 12, 'name': 'PETER BERGER: RELIGION: EXPERIENCE, TRADITION, REF...', 'modname': 'label', 'instance': 131431, 'section': 146666, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 10 2023, Friday at 12:07AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 10 2023, Friday at 12:37AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1136495, 'updates': [{'name': 'configuration', 'timeupdated': 1675960544}, {'name': 'contentfiles', 'itemids': [56322605]}]}], 'warnings': []}
+{'cm': {'id': 1136495, 'course': 13231, 'module': 17, 'name': 'Weekly Outline', 'modname': 'resource', 'instance': 127229, 'section': 146665, 'sectionnum': 1, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 10 2023, Friday at 01:07AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 10 2023, Friday at 01:08PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1136716, 'updates': [{'name': 'configuration', 'timeupdated': 1675999682}]}, {'contextlevel': 'module', 'id': 1136719, 'updates': [{'name': 'configuration', 'timeupdated': 1675999883}]}, {'contextlevel': 'module', 'id': 1136726, 'updates': [{'name': 'configuration', 'timeupdated': 1676000178}]}], 'warnings': []}
+{'cm': {'id': 1136716, 'course': 13231, 'module': 12, 'name': 'WILLIAM ROWE: THE IDEA OF GOD', 'modname': 'label', 'instance': 133293, 'section': 146667, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1136719, 'course': 13231, 'module': 12, 'name': 'TIM BAYNE: THE CONCEPT OF GOD', 'modname': 'label', 'instance': 133294, 'section': 146667, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1136726, 'course': 13231, 'module': 12, 'name': 'ST. ANSELM: THE CLASSICAL ONTOLOGICAL ARGUMENT', 'modname': 'label', 'instance': 133301, 'section': 147176, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1136630, 'updates': [{'name': 'configuration', 'timeupdated': 1675993304}, {'name': 'contentfiles', 'itemids': [56335568]}]}], 'warnings': []}
+{'cm': {'id': 1136630, 'course': 13087, 'module': 17, 'name': '03 Threat Actors and Impact', 'modname': 'resource', 'instance': 127255, 'section': 144652, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 10 2023, Friday at 01:38PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 10 2023, Friday at 02:08PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1136788, 'updates': [{'name': 'configuration', 'timeupdated': 1676008830}, {'name': 'contentfiles', 'itemids': [56349675]}]}, {'contextlevel': 'module', 'id': 1136795, 'updates': [{'name': 'configuration', 'timeupdated': 1676009106}, {'name': 'contentfiles', 'itemids': [56350035]}]}], 'warnings': []}
+{'cm': {'id': 1136788, 'course': 13231, 'module': 17, 'name': 'Reading Material 3', 'modname': 'resource', 'instance': 127284, 'section': 146667, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1136795, 'course': 13231, 'module': 17, 'name': 'Reading Material 4', 'modname': 'resource', 'instance': 127291, 'section': 146667, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 10 2023, Friday at 02:38PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1124762, 'updates': [{'name': 'configuration', 'timeupdated': 1676009312}]}], 'warnings': []}
+{'cm': {'id': 1124762, 'course': 13231, 'module': 17, 'name': 'Reading Material 2', 'modname': 'resource', 'instance': 125359, 'section': 146666, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 10 2023, Friday at 03:08PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 10 2023, Friday at 03:38PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 10 2023, Friday at 04:08PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1136880, 'updates': [{'name': 'configuration', 'timeupdated': 1676015924}, {'name': 'contentfiles', 'itemids': [56357549]}]}, {'contextlevel': 'module', 'id': 1136888, 'updates': [{'name': 'configuration', 'timeupdated': 1676016365}]}], 'warnings': []}
+{'cm': {'id': 1136880, 'course': 13231, 'module': 17, 'name': 'Reading Material 5', 'modname': 'resource', 'instance': 127319, 'section': 147176, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1136888, 'course': 13231, 'module': 12, 'name': 'ST. THOMAS AQUINAS - THE CLASSICAL COSMOLOGICAL AR...', 'modname': 'label', 'instance': 133318, 'section': 147176, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 10 2023, Friday at 08:00PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1136895, 'updates': [{'name': 'configuration', 'timeupdated': 1676016706}, {'name': 'contentfiles', 'itemids': [56358756]}]}, {'contextlevel': 'module', 'id': 1136903, 'updates': [{'name': 'configuration', 'timeupdated': 1676016813}]}, {'contextlevel': 'module', 'id': 1136914, 'updates': [{'name': 'configuration', 'timeupdated': 1676017044}, {'name': 'contentfiles', 'itemids': [56359745]}]}, {'contextlevel': 'module', 'id': 1136922, 'updates': [{'name': 'configuration', 'timeupdated': 1676017190}]}, {'contextlevel': 'module', 'id': 1136929, 'updates': [{'name': 'configuration', 'timeupdated': 1676017472}, {'name': 'contentfiles', 'itemids': [56360357]}]}, {'contextlevel': 'module', 'id': 1136936, 'updates': [{'name': 'configuration', 'timeupdated': 1676017603}]}, {'contextlevel': 'module', 'id': 1136960, 'updates': [{'name': 'configuration', 'timeupdated': 1676017863}, {'name': 'contentfiles', 'itemids': [56361063]}]}], 'warnings': []}
+{'cm': {'id': 1136895, 'course': 13231, 'module': 17, 'name': 'Reading Material 6', 'modname': 'resource', 'instance': 127326, 'section': 147176, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1136903, 'course': 13231, 'module': 12, 'name': 'WILLIAM PALEY: THE CLASSICAL DESIGN ARGUMENT', 'modname': 'label', 'instance': 133325, 'section': 147176, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1136914, 'course': 13231, 'module': 17, 'name': 'Reading Material 7', 'modname': 'resource', 'instance': 127337, 'section': 147176, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1136922, 'course': 13231, 'module': 12, 'name': 'LEWIS WHITE BECK: SIX SECULAR PHILOSOPHERS', 'modname': 'label', 'instance': 133332, 'section': 147178, 'sectionnum': 5, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1136929, 'course': 13231, 'module': 17, 'name': 'Reading Material 8', 'modname': 'resource', 'instance': 127345, 'section': 147178, 'sectionnum': 5, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1136936, 'course': 13231, 'module': 12, 'name': 'JOHN HICK: GOD, EVIL, AND MYSTERY', 'modname': 'label', 'instance': 133339, 'section': 147178, 'sectionnum': 5, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1136960, 'course': 13231, 'module': 17, 'name': 'Reading Material 9', 'modname': 'resource', 'instance': 127352, 'section': 147178, 'sectionnum': 5, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 10 2023, Friday at 08:08PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 10 2023, Friday at 08:38PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 10 2023, Friday at 09:09PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 10 2023, Friday at 09:38PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 10 2023, Friday at 10:08PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 10 2023, Friday at 10:38PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 10 2023, Friday at 11:08PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Running on February 10 2023, Friday at 11:38PM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 12:08AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 12:38AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 01:08AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 01:38AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 02:08AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 02:38AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 03:08AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 03:38AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 04:08AM
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 01:23PM
+{'instances': [{'contextlevel': 'module', 'id': 1097617, 'updates': [{'name': 'configuration', 'timeupdated': 1676074065}]}], 'warnings': []}
+{'cm': {'id': 1097617, 'course': 12678, 'module': 9, 'name': 'Takeaways#3 The Social Teachings of the Church', 'modname': 'forum', 'instance': 128796, 'section': 148660, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Takeaways#3 The Social Teachings of the Church is due has been added!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1059528, 'updates': [{'name': 'discussions', 'itemids': [945548]}]}, {'contextlevel': 'module', 'id': 1137995, 'updates': [{'name': 'configuration', 'timeupdated': 1676090044}, {'name': 'questions', 'itemids': [9142166, 9142168, 9142169, 9142170, 9142171, 9142172, 9142173, 9142174, 9142175, 9142176, 9142177, 9142178, 9142179]}]}], 'warnings': []}
+{'cm': {'id': 1059528, 'course': 13087, 'module': 9, 'name': 'Announcements', 'modname': 'forum', 'instance': 124671, 'section': 144650, 'sectionnum': 0, 'groupmode': 0, 'groupingid': 0, 'completion': 0}, 'warnings': []}
+{'cm': {'id': 1137995, 'course': 13087, 'module': 16, 'name': 'Prelim', 'modname': 'quiz', 'instance': 79881, 'section': 144653, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Prelim closes has been added!
+1
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 01:53PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 02:39PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 06:23PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 06:53PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+Task: [Lab] Activity 4: Git Basics 2 is due has been added AND is within deadline!
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 07:23PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1083555, 'updates': [{'name': 'completion'}, {'name': 'gradeitems', 'itemids': [257261]}, {'name': 'submissions', 'itemids': [2317029]}, {'name': 'grades', 'itemids': [1823142]}]}], 'warnings': []}
+{'cm': {'id': 1083555, 'course': 12548, 'module': 1, 'name': '[Lab] Activity 4: Git Basics 2', 'modname': 'assign', 'instance': 127680, 'section': 147323, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 2}, 'warnings': []}
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 07:53PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 08:23PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 08:53PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1133910, 'updates': [{'name': 'attempts', 'itemids': [1288628]}]}], 'warnings': []}
+{'cm': {'id': 1133910, 'course': 13231, 'module': 16, 'name': 'Short Quiz 2', 'modname': 'quiz', 'instance': 79720, 'section': 146666, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Short Quiz 2 closes has been added AND is within deadline!
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 09:23PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1133910, 'updates': [{'name': 'gradeitems', 'itemids': [269003]}, {'name': 'attempts', 'itemids': [1288628]}, {'name': 'grades', 'itemids': [1125506]}]}], 'warnings': []}
+{'cm': {'id': 1133910, 'course': 13231, 'module': 16, 'name': 'Short Quiz 2', 'modname': 'quiz', 'instance': 79720, 'section': 146666, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 09:53PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 10:23PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 10:53PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 11:23PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 11 2023, Saturday at 11:53PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 12:23AM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 12:53AM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 01:23AM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 01:53AM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 11:23AM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 11:53AM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 12:23PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 12:53PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 01:23PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 01:53PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 02:23PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 02:53PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 03:23PM
+{'instances': [{'contextlevel': 'module', 'id': 1097617, 'updates': [{'name': 'discussions', 'itemids': [946359]}]}], 'warnings': []}
+{'cm': {'id': 1097617, 'course': 12678, 'module': 9, 'name': 'Takeaways#3 The Social Teachings of the Church', 'modname': 'forum', 'instance': 128796, 'section': 148660, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 03:53PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 04:23PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 04:53PM
+{'instances': [{'contextlevel': 'module', 'id': 1097617, 'updates': [{'name': 'discussions', 'itemids': [946434]}]}], 'warnings': []}
+{'cm': {'id': 1097617, 'course': 12678, 'module': 9, 'name': 'Takeaways#3 The Social Teachings of the Church', 'modname': 'forum', 'instance': 128796, 'section': 148660, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 05:23PM
+{'instances': [{'contextlevel': 'module', 'id': 1097617, 'updates': [{'name': 'discussions', 'itemids': [946458]}]}], 'warnings': []}
+{'cm': {'id': 1097617, 'course': 12678, 'module': 9, 'name': 'Takeaways#3 The Social Teachings of the Church', 'modname': 'forum', 'instance': 128796, 'section': 148660, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 05:53PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 06:23PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 06:53PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 07:23PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 07:53PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 08:23PM
+{'instances': [{'contextlevel': 'module', 'id': 1097617, 'updates': [{'name': 'discussions', 'itemids': [946593]}]}], 'warnings': []}
+{'cm': {'id': 1097617, 'course': 12678, 'module': 9, 'name': 'Takeaways#3 The Social Teachings of the Church', 'modname': 'forum', 'instance': 128796, 'section': 148660, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 08:53PM
+{'instances': [{'contextlevel': 'module', 'id': 1097617, 'updates': [{'name': 'discussions', 'itemids': [946623, 946600]}]}], 'warnings': []}
+{'cm': {'id': 1097617, 'course': 12678, 'module': 9, 'name': 'Takeaways#3 The Social Teachings of the Church', 'modname': 'forum', 'instance': 128796, 'section': 148660, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 09:23PM
+{'instances': [{'contextlevel': 'module', 'id': 1097617, 'updates': [{'name': 'discussions', 'itemids': [946626]}]}], 'warnings': []}
+{'cm': {'id': 1097617, 'course': 12678, 'module': 9, 'name': 'Takeaways#3 The Social Teachings of the Church', 'modname': 'forum', 'instance': 128796, 'section': 148660, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1136880, 'updates': [{'name': 'configuration', 'timeupdated': 1676208039}]}, {'contextlevel': 'module', 'id': 1139116, 'updates': [{'name': 'configuration', 'timeupdated': 1676208057}]}, {'contextlevel': 'module', 'id': 1136895, 'updates': [{'name': 'configuration', 'timeupdated': 1676208083}]}, {'contextlevel': 'module', 'id': 1139118, 'updates': [{'name': 'configuration', 'timeupdated': 1676208107}]}], 'warnings': []}
+{'cm': {'id': 1136880, 'course': 13231, 'module': 17, 'name': 'Reading Material 5 (Primary Source)', 'modname': 'resource', 'instance': 127319, 'section': 147176, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1139116, 'course': 13231, 'module': 20, 'name': 'Secondary Sources', 'modname': 'url', 'instance': 123239, 'section': 147176, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1136895, 'course': 13231, 'module': 17, 'name': 'Reading Material 6 (Primary Source)', 'modname': 'resource', 'instance': 127326, 'section': 147176, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1139118, 'course': 13231, 'module': 20, 'name': 'Secondary Sources', 'modname': 'url', 'instance': 123240, 'section': 147176, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 09:53PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 10:23PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 10:53PM
+{'instances': [{'contextlevel': 'module', 'id': 1097617, 'updates': [{'name': 'discussions', 'itemids': [946729, 946724]}]}], 'warnings': []}
+{'cm': {'id': 1097617, 'course': 12678, 'module': 9, 'name': 'Takeaways#3 The Social Teachings of the Church', 'modname': 'forum', 'instance': 128796, 'section': 148660, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1139214, 'updates': [{'name': 'configuration', 'timeupdated': 1676213409}]}, {'contextlevel': 'module', 'id': 1139237, 'updates': [{'name': 'configuration', 'timeupdated': 1676213563}, {'name': 'contentfiles', 'itemids': [56512011]}]}], 'warnings': []}
+{'cm': {'id': 1139214, 'course': 13231, 'module': 12, 'name': 'GROUP REPORTING', 'modname': 'label', 'instance': 133682, 'section': 147180, 'sectionnum': 6, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+{'cm': {'id': 1139237, 'course': 13231, 'module': 17, 'name': 'Guidelines', 'modname': 'resource', 'instance': 127635, 'section': 147180, 'sectionnum': 6, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 11:23PM
+{'instances': [{'contextlevel': 'module', 'id': 1097617, 'updates': [{'name': 'discussions', 'itemids': [946764, 946748]}]}], 'warnings': []}
+{'cm': {'id': 1097617, 'course': 12678, 'module': 9, 'name': 'Takeaways#3 The Social Teachings of the Church', 'modname': 'forum', 'instance': 128796, 'section': 148660, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 12 2023, Sunday at 11:53PM
+{'instances': [{'contextlevel': 'module', 'id': 1097617, 'updates': [{'name': 'discussions', 'itemids': [946801, 946782]}]}], 'warnings': []}
+{'cm': {'id': 1097617, 'course': 12678, 'module': 9, 'name': 'Takeaways#3 The Social Teachings of the Church', 'modname': 'forum', 'instance': 128796, 'section': 148660, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is within deadline!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 13 2023, Monday at 12:23AM
+{'instances': [{'contextlevel': 'module', 'id': 1097617, 'updates': [{'name': 'discussions', 'itemids': [946806]}]}], 'warnings': []}
+{'cm': {'id': 1097617, 'course': 12678, 'module': 9, 'name': 'Takeaways#3 The Social Teachings of the Church', 'modname': 'forum', 'instance': 128796, 'section': 148660, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is past the deadline! Deleting...
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1139265, 'updates': [{'name': 'configuration', 'timeupdated': 1676217658}]}], 'warnings': []}
+{'cm': {'id': 1139265, 'course': 12548, 'module': 15, 'name': 'Slides: Intro to Software Testing (Part 2)', 'modname': 'page', 'instance': 343207, 'section': 147323, 'sectionnum': 3, 'groupmode': 0, 'groupingid': 0, 'completion': 2}, 'warnings': []}
+0
+0
+0
+________________________________________
+Running on February 13 2023, Monday at 12:53AM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 13 2023, Monday at 01:23AM
+{'instances': [{'contextlevel': 'module', 'id': 1097617, 'updates': [{'name': 'discussions', 'itemids': [946848]}]}], 'warnings': []}
+{'cm': {'id': 1097617, 'course': 12678, 'module': 9, 'name': 'Takeaways#3 The Social Teachings of the Church', 'modname': 'forum', 'instance': 128796, 'section': 148660, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is past the deadline! Deleting...
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 13 2023, Monday at 01:53AM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 13 2023, Monday at 02:23AM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is past the deadline! Deleting...
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 13 2023, Monday at 01:41PM
+{'instances': [{'contextlevel': 'module', 'id': 1097617, 'updates': [{'name': 'discussions', 'itemids': [946947, 946945]}]}], 'warnings': []}
+{'cm': {'id': 1097617, 'course': 12678, 'module': 9, 'name': 'Takeaways#3 The Social Teachings of the Church', 'modname': 'forum', 'instance': 128796, 'section': 148660, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Takeaways#3 The Social Teachings of the Church is due has been added!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 13 2023, Monday at 02:11PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is past the deadline! Deleting...
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 13 2023, Monday at 02:41PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+0
+0
+________________________________________
+Running on February 13 2023, Monday at 03:11PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is past the deadline! Deleting...
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+{'instances': [{'contextlevel': 'module', 'id': 1140014, 'updates': [{'name': 'configuration', 'timeupdated': 1676271715}, {'name': 'introfiles', 'itemids': [56552529]}]}], 'warnings': []}
+{'cm': {'id': 1140014, 'course': 13166, 'module': 9, 'name': 'Familiarizing R Environment', 'modname': 'forum', 'instance': 133387, 'section': 144971, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Familiarizing R Environment is due has been added!
+1
+0
+________________________________________
+Running on February 13 2023, Monday at 03:41PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+Task: Familiarizing R Environment is due has been added AND is past the deadline! Deleting...
+0
+0
+________________________________________
+Running on February 13 2023, Monday at 04:11PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is past the deadline! Deleting...
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+{'instances': [{'contextlevel': 'module', 'id': 1140014, 'updates': [{'name': 'discussions', 'itemids': [947309]}]}], 'warnings': []}
+{'cm': {'id': 1140014, 'course': 13166, 'module': 9, 'name': 'Familiarizing R Environment', 'modname': 'forum', 'instance': 133387, 'section': 144971, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Familiarizing R Environment is due has been added!
+1
+0
+________________________________________
+Running on February 13 2023, Monday at 04:41PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+Task: Familiarizing R Environment is due has been added AND is past the deadline! Deleting...
+0
+0
+________________________________________
+Running on February 13 2023, Monday at 05:11PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is past the deadline! Deleting...
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+Task: Familiarizing R Environment is due has been added!
+1
+0
+________________________________________
+Running on February 13 2023, Monday at 05:41PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+Task: Familiarizing R Environment is due has been added AND is past the deadline! Deleting...
+0
+0
+________________________________________
+Running on February 13 2023, Monday at 06:11PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is past the deadline! Deleting...
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+Task: Familiarizing R Environment is due has been added!
+1
+0
+________________________________________
+Running on February 13 2023, Monday at 06:41PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+{'instances': [{'contextlevel': 'module', 'id': 1140148, 'updates': [{'name': 'configuration', 'timeupdated': 1676283542}]}], 'warnings': []}
+{'cm': {'id': 1140148, 'course': 13155, 'module': 1, 'name': 'Submit here!', 'modname': 'assign', 'instance': 134375, 'section': 150899, 'sectionnum': 7, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+Task: Familiarizing R Environment is due has been added AND is past the deadline! Deleting...
+0
+0
+________________________________________
+Running on February 13 2023, Monday at 07:11PM
+{'instances': [{'contextlevel': 'module', 'id': 1097617, 'updates': [{'name': 'discussions', 'itemids': [947480]}]}], 'warnings': []}
+{'cm': {'id': 1097617, 'course': 12678, 'module': 9, 'name': 'Takeaways#3 The Social Teachings of the Church', 'modname': 'forum', 'instance': 128796, 'section': 148660, 'sectionnum': 4, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is past the deadline! Deleting...
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+{'instances': [{'contextlevel': 'module', 'id': 1140148, 'updates': [{'name': 'submissions', 'itemids': [2331385]}]}], 'warnings': []}
+{'cm': {'id': 1140148, 'course': 13155, 'module': 1, 'name': 'Submit here!', 'modname': 'assign', 'instance': 134375, 'section': 150899, 'sectionnum': 7, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+Task: Familiarizing R Environment is due has been added!
+1
+0
+________________________________________
+Running on February 13 2023, Monday at 07:41PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+{'instances': [{'contextlevel': 'module', 'id': 1140014, 'updates': [{'name': 'discussions', 'itemids': [947508, 947490, 947486]}]}], 'warnings': []}
+{'cm': {'id': 1140014, 'course': 13166, 'module': 9, 'name': 'Familiarizing R Environment', 'modname': 'forum', 'instance': 133387, 'section': 144971, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Familiarizing R Environment is due has been added AND is past the deadline! Deleting...
+0
+0
+________________________________________
+Running on February 13 2023, Monday at 08:11PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is past the deadline! Deleting...
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+0
+Task: Familiarizing R Environment is due has been added!
+1
+0
+________________________________________
+Running on February 13 2023, Monday at 08:41PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1083579, 'updates': [{'name': 'configuration', 'timeupdated': 1676290350}]}], 'warnings': []}
+{'cm': {'id': 1083579, 'course': 12548, 'module': 16, 'name': 'F2F - PRELIM EXAM', 'modname': 'quiz', 'instance': 76450, 'section': 147326, 'sectionnum': 6, 'groupmode': 0, 'groupingid': 0, 'completion': 2}, 'warnings': []}
+Task: F2F - PRELIM EXAM closes has been added!
+1
+{'instances': [{'contextlevel': 'module', 'id': 1140014, 'updates': [{'name': 'discussions', 'itemids': [947571]}]}], 'warnings': []}
+{'cm': {'id': 1140014, 'course': 13166, 'module': 9, 'name': 'Familiarizing R Environment', 'modname': 'forum', 'instance': 133387, 'section': 144971, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Familiarizing R Environment is due has been added AND is past the deadline! Deleting...
+0
+0
+________________________________________
+Running on February 13 2023, Monday at 09:11PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is past the deadline! Deleting...
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+{'instances': [{'contextlevel': 'module', 'id': 1060738, 'updates': [{'name': 'discussions', 'itemids': [947585]}]}], 'warnings': []}
+{'cm': {'id': 1060738, 'course': 13155, 'module': 9, 'name': 'Announcements', 'modname': 'forum', 'instance': 124875, 'section': 144926, 'sectionnum': 1, 'groupmode': 0, 'groupingid': 0, 'completion': 0}, 'warnings': []}
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+Task: F2F - PRELIM EXAM closes has been added AND is within deadline!
+0
+Task: Familiarizing R Environment is due has been added!
+1
+0
+________________________________________
+Running on February 13 2023, Monday at 09:41PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+Task: F2F - PRELIM EXAM closes has been added AND is within deadline!
+0
+Task: Familiarizing R Environment is due has been added AND is past the deadline! Deleting...
+0
+0
+________________________________________
+Running on February 13 2023, Monday at 10:11PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is past the deadline! Deleting...
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+Task: F2F - PRELIM EXAM closes has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1140014, 'updates': [{'name': 'discussions', 'itemids': [947713]}]}], 'warnings': []}
+{'cm': {'id': 1140014, 'course': 13166, 'module': 9, 'name': 'Familiarizing R Environment', 'modname': 'forum', 'instance': 133387, 'section': 144971, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Familiarizing R Environment is due has been added!
+1
+0
+________________________________________
+Running on February 13 2023, Monday at 10:41PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+Task: F2F - PRELIM EXAM closes has been added AND is within deadline!
+0
+{'instances': [{'contextlevel': 'module', 'id': 1140014, 'updates': [{'name': 'discussions', 'itemids': [947743]}]}], 'warnings': []}
+{'cm': {'id': 1140014, 'course': 13166, 'module': 9, 'name': 'Familiarizing R Environment', 'modname': 'forum', 'instance': 133387, 'section': 144971, 'sectionnum': 2, 'groupmode': 0, 'groupingid': 0, 'completion': 1}, 'warnings': []}
+Task: Familiarizing R Environment is due has been added AND is past the deadline! Deleting...
+0
+0
+________________________________________
+Running on February 13 2023, Monday at 11:11PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added AND is past the deadline! Deleting...
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+0
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+Task: F2F - PRELIM EXAM closes has been added AND is within deadline!
+0
+Task: Familiarizing R Environment is due has been added!
+1
+0
+________________________________________
+Running on February 13 2023, Monday at 11:41PM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+Task: F2F - PRELIM EXAM closes has been added AND is within deadline!
+0
+Task: Familiarizing R Environment is due has been added AND is past the deadline! Deleting...
+0
+0
+________________________________________
+Running on February 14 2023, Tuesday at 12:11AM
+Task: Takeaways#3 The Social Teachings of the Church is due has been added!
+Task: Personal Reflection/Insight is due has been added AND is within deadline!
+Task: Summary of your Report is due has been added AND is within deadline!
+1
+0
+0
+Task: Week 2 assignment is due has been added AND is within deadline!
+0
+Task: Prelim closes has been added AND is within deadline!
+0
+Task: F2F - PRELIM EXAM closes has been added AND is within deadline!
+0
+Task: Familiarizing R Environment is due has been added AND is past the deadline! Deleting...
+0
+0
+________________________________________
