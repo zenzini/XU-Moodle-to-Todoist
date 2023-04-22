@@ -322,6 +322,9 @@ def delTodo(exists, name):
     if int(exists["events"][name]["tstamp"]) < int(datetime.timestamp(now)):
         print("Task: " + name + " has been added AND is past the deadline! Deleting...")
         del exists["events"][name]
+
+        with open('store.json', 'w', encoding="utf-8") as f:
+            json.dump(exists, f, indent=2)
     else:
         print("Task: " + name + " has been added AND is within deadline!")
 

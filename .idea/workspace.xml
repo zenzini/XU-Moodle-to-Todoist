@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91bc5a0b-0c67-4d7a-9cd8-8a56b6b59586" name="Changes" comment="- added handling for if current task is past deadline. youre a fucking moron zen">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/elearn to todoist.py" beforeDir="false" afterPath="$PROJECT_DIR$/elearn to todoist.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/store.json" beforeDir="false" afterPath="$PROJECT_DIR$/store.json" afterDir="false" />
