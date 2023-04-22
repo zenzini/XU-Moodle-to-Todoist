@@ -6,7 +6,7 @@
       "tstamp": "1674630000"
     },
     "Personal Reflection/Insight is due": {
-      "modified": "January 21, Saturday at 10:27AM",
+      "modified": "March 20, Monday at 07:31AM",
       "due": "March 21, Tuesday at 11:59PM",
       "tstamp": "1679414340"
     },
@@ -26,7 +26,7 @@
       "tstamp": "1675440000"
     },
     "Summary of your Report is due": {
-      "modified": "January 21, Saturday at 10:27AM",
+      "modified": "March 20, Monday at 07:31AM",
       "due": "March 22, Wednesday at 11:59PM",
       "tstamp": "1679500740"
     },
@@ -101,14 +101,209 @@
       "tstamp": "1676347200"
     },
     "F2F - PRELIM EXAM closes": {
-      "modified": "February 13, Monday at 08:12PM",
-      "due": "February 15, Wednesday at 03:00PM",
-      "tstamp": "1676444400"
+      "modified": "February 21, Tuesday at 10:45AM",
+      "due": "February 25, Saturday at 05:00PM",
+      "tstamp": "1677315600"
     },
-    "Familiarizing R Environment is due": {
-      "modified": "February 13, Monday at 03:01PM",
-      "due": "February 13, Monday at 02:51PM",
-      "tstamp": "1676271060"
+    "MIDTERM EXAM opens": {
+      "modified": "February 15, Wednesday at 10:37AM",
+      "due": "February 18, Saturday at 09:00AM",
+      "tstamp": "1676682000"
+    },
+    "PRELIM EXAM opens": {
+      "modified": "February 15, Wednesday at 07:55PM",
+      "due": "February 18, Saturday at 09:00AM",
+      "tstamp": "1676682000"
+    },
+    "PRELIM EXAM closes": {
+      "modified": "February 17, Friday at 09:33AM",
+      "due": "February 18, Saturday at 11:30AM",
+      "tstamp": "1676691000"
+    },
+    "SOC Activity/Reflection is due": {
+      "modified": "February 17, Friday at 12:54PM",
+      "due": "February 24, Friday at 12:00PM",
+      "tstamp": "1677211200"
+    },
+    "Takeaways#3 The Social Teachings of the Church is due": {
+      "modified": "February 11, Saturday at 08:07AM",
+      "due": "February 12, Sunday at 11:59PM",
+      "tstamp": "1676217540"
+    },
+    "Your Prelim is due": {
+      "modified": "February 18, Saturday at 10:30AM",
+      "due": "February 18, Saturday at 12:30PM",
+      "tstamp": "1676694600"
+    },
+    "Short Quiz 3 closes": {
+      "modified": "February 25, Saturday at 08:55AM",
+      "due": "February 27, Monday at 11:59PM",
+      "tstamp": "1677513540"
+    },
+    "Lab Activity 2: Working with Text Files is due": {
+      "modified": "February 21, Tuesday at 10:34AM",
+      "due": "February 21, Tuesday at 11:30PM",
+      "tstamp": "1676993400"
+    },
+    "Online - PRELIM EXAM closes": {
+      "modified": "February 25, Saturday at 11:43AM",
+      "due": "February 25, Saturday at 11:59PM",
+      "tstamp": "1677340740"
+    },
+    "1st &amp; 2nd Weeks of Preparation (To be accomplished by group leaders only) is due": {
+      "modified": "February 25, Saturday at 08:55AM",
+      "due": "February 27, Monday at 11:59PM",
+      "tstamp": "1677513540"
+    },
+    "Week 7 Group Output is due": {
+      "modified": "March 02, Thursday at 09:44AM",
+      "due": "March 08, Wednesday at 11:59PM",
+      "tstamp": "1678291140"
+    },
+    "Shiny Activity is due": {
+      "modified": "March 09, Thursday at 05:52AM",
+      "due": "March 12, Sunday at 06:00PM",
+      "tstamp": "1678615200"
+    },
+    "Activity: Redeem NetAcad Seat Token is due": {
+      "modified": "March 06, Monday at 05:27PM",
+      "due": "March 07, Tuesday at 11:50PM",
+      "tstamp": "1678204200"
+    },
+    "Lab activity: Exploring Processes, Threads, Handles, and Windows Registry is due": {
+      "modified": "March 09, Thursday at 10:05AM",
+      "due": "March 11, Saturday at 11:50PM",
+      "tstamp": "1678549800"
+    },
+    "Milestone 0: Setting Up the Development Stack is due": {
+      "modified": "April 05, Wednesday at 04:16PM",
+      "due": "April 18, Tuesday at 12:00AM",
+      "tstamp": "1681747200"
+    },
+    "Transforming Data Activity Mar 9 2023 is due": {
+      "modified": "March 12, Sunday at 04:58PM",
+      "due": "March 13, Monday at 01:30PM",
+      "tstamp": "1678685400"
+    },
+    "Short Quiz 4 closes": {
+      "modified": "March 10, Friday at 11:58AM",
+      "due": "March 11, Saturday at 11:59PM",
+      "tstamp": "1678550340"
+    },
+    "MIDTERM EXAM closes": {
+      "modified": "March 20, Monday at 12:29AM",
+      "due": "March 22, Wednesday at 10:50AM",
+      "tstamp": "1679453400"
+    },
+    "Final Project Groups is due": {
+      "modified": "March 30, Thursday at 11:34AM",
+      "due": "March 31, Friday at 12:00AM",
+      "tstamp": "1680192000"
+    },
+    "3rd &amp; 4th Weeks of Preparation (To be accomplished by group leaders only) is due": {
+      "modified": "March 11, Saturday at 06:48PM",
+      "due": "March 12, Sunday at 11:59PM",
+      "tstamp": "1678636740"
+    },
+    "Activity is due": {
+      "modified": "March 13, Monday at 10:04PM",
+      "due": "March 19, Sunday at 11:59PM",
+      "tstamp": "1679241540"
+    },
+    "Midterm Exam is due": {
+      "modified": "March 14, Tuesday at 09:38AM",
+      "due": "March 20, Monday at 10:50AM",
+      "tstamp": "1679280600"
+    },
+    "Blue Form (Midterms) is due": {
+      "modified": "March 14, Tuesday at 09:18AM",
+      "due": "March 25, Saturday at 12:00AM",
+      "tstamp": "1679673600"
+    },
+    "Midterm Exam closes": {
+      "modified": "March 18, Saturday at 10:58AM",
+      "due": "March 20, Monday at 10:50AM",
+      "tstamp": "1679280600"
+    },
+    "Final Exam Review: Common Good, Politics, Option for the Poor, Memo of Fr. Mars Tan on Election is due": {
+      "modified": "January 21, Saturday at 10:27AM",
+      "due": "March 17, Friday at 09:59PM",
+      "tstamp": "1679061540"
+    },
+    "Exercise: TDD - Simple Calculator is due": {
+      "modified": "March 16, Thursday at 12:07AM",
+      "due": "March 19, Sunday at 12:00AM",
+      "tstamp": "1679155200"
+    },
+    "MIDTERM HANDS-ON EXAM closes": {
+      "modified": "March 20, Monday at 02:26AM",
+      "due": "March 26, Sunday at 11:59PM",
+      "tstamp": "1679846340"
+    },
+    "Midterm Project Proposal is due": {
+      "modified": "March 20, Monday at 11:33AM",
+      "due": "March 22, Wednesday at 03:00PM",
+      "tstamp": "1679468400"
+    },
+    "Questions for SLP partner is due": {
+      "modified": "March 24, Friday at 10:32AM",
+      "due": "March 26, Sunday at 11:00PM",
+      "tstamp": "1679842800"
+    },
+    "Final Project Proposal is due": {
+      "modified": "March 30, Thursday at 02:56PM",
+      "due": "April 12, Wednesday at 12:00AM",
+      "tstamp": "1681228800"
+    },
+    "Windows Monitoring and Security is due": {
+      "modified": "March 30, Thursday at 11:21AM",
+      "due": "April 14, Friday at 12:00AM",
+      "tstamp": "1681401600"
+    },
+    "Final Project is due": {
+      "modified": "April 03, Monday at 11:47AM",
+      "due": "April 04, Tuesday at 06:00PM",
+      "tstamp": "1680602400"
+    },
+    "Short Quiz 5 closes": {
+      "modified": "April 03, Monday at 05:26PM",
+      "due": "April 08, Saturday at 11:59PM",
+      "tstamp": "1680969540"
+    },
+    "Short Quiz 6 closes": {
+      "modified": "April 10, Monday at 10:50PM",
+      "due": "April 15, Saturday at 11:59PM",
+      "tstamp": "1681574340"
+    },
+    "Activity 4/13 Microsoft AZ 900 (AI900) is due": {
+      "modified": "April 13, Thursday at 02:52PM",
+      "due": "April 13, Thursday at 03:10PM",
+      "tstamp": "1681369800"
+    },
+    "Short Quiz 7 closes": {
+      "modified": "April 18, Tuesday at 09:34AM",
+      "due": "April 22, Saturday at 11:59PM",
+      "tstamp": "1682179140"
+    },
+    "Quiz: Basic Server Administration closes": {
+      "modified": "April 18, Tuesday at 09:48AM",
+      "due": "April 25, Tuesday at 12:00AM",
+      "tstamp": "1682352000"
+    },
+    "Milestone 2 : Web Development (Code &amp; Build) is due": {
+      "modified": "April 18, Tuesday at 01:14PM",
+      "due": "May 05, Friday at 12:00AM",
+      "tstamp": "1683216000"
+    },
+    "Milestone 1: Code + Build (TDD) is due": {
+      "modified": "April 22, Saturday at 08:54PM",
+      "due": "May 21, Sunday at 12:00AM",
+      "tstamp": "1684598400"
+    },
+    "Proof of Accessing the Microsoft Lab is due": {
+      "modified": "April 20, Thursday at 01:12PM",
+      "due": "April 27, Thursday at 12:00AM",
+      "tstamp": "1682524800"
     }
   },
   "ids": {
@@ -122,13 +317,13 @@
     "13184": "CSCC_33.1_B"
   },
   "update": {
-    "12678": "1676304885",
-    "13231": "1676213609",
-    "13150": "1675773646",
-    "13155": "1676293871",
-    "13087": "1676093025",
-    "12548": "1676292073",
-    "13166": "1676304907",
-    "13184": "1675096495"
+    "12678": "1681481495",
+    "13231": "1682172459",
+    "13150": "1681913624",
+    "13155": "1681884827",
+    "13087": "1682172461",
+    "12548": "1682172465",
+    "13166": "1682172468",
+    "13184": "1678192940"
   }
 }

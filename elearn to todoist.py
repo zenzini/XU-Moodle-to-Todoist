@@ -5,6 +5,7 @@ import os
 import traceback
 import winrt.windows.ui.notifications as notifications
 import winrt.windows.data.xml.dom as dom
+import requests
 
 from datetime import datetime
 from dotenv import load_dotenv
@@ -12,7 +13,11 @@ from moodle import Moodle
 from todoist_api_python.api import TodoistAPI
 
 load_dotenv()
-eToken = os.getenv("ELEARN")
+get_token = "https://elearn.xu.edu.ph/login/token.php?username=" + os.getenv("user") + "&password=" + \
+            os.getenv("pass") + "&service=moodle_mobile_app"
+
+eToken_json = (requests.get(get_token)).json()
+eToken = eToken_json["token"]
 tToken = TodoistAPI(os.getenv("DOIST"))
 
 url = 'https://elearn.xu.edu.ph/webservice/rest/server.php?moodlewsrestformat=json'
@@ -144,7 +149,6 @@ def main():
 def todo(event, ids, key, exists):
     name = event['name']
     eUrl = event['url']
-    now = datetime.now()
 
     starts = ""
     desc = " "
@@ -169,7 +173,10 @@ def todo(event, ids, key, exists):
     else:
         prio = 2
 
-    if result < 2:
+    if result is None:
+        print(name + " is past deadline!")
+
+    elif result < 2:
         if result == 1:
             desc += '**RECENTLY MODIFIED!** \n\n'
 
@@ -177,20 +184,18 @@ def todo(event, ids, key, exists):
             dReq = md.markdownify(event['description'], heading_style="ATX")
             desc += (dReq + '--- \n\n **Opens:** ' + starts + '\n\n **Last modified:** ' + modded +
                      '\n\n**[Click me to open the requirement in E-Learn!](' + eUrl + ')**')
-            if int(datetime.timestamp(now)) < int(tstamp):
-                tToken.add_task(
-                    content=name,
-                    description=desc,
-                    due_string=time,
-                    due_lang='en',
-                    priority=prio,
-                    labels=[
-                        ids[key],
-                        "NEW"],
-                    section_id="96723857",
-                )
-            else:
-                print(name + " is past deadline!")
+
+            tToken.add_task(
+                content=name,
+                description=desc,
+                due_string=time,
+                due_lang='en',
+                priority=prio,
+                labels=[
+                    ids[key],
+                    "NEW"],
+                section_id="96723857",
+            )
         except Exception as error:
             print(error)
 
@@ -268,41 +273,46 @@ def format_time(temp):
 
 def inTodo(exists, name, modded, time, tstamp):
     global nTUps, nTasks
+    now = datetime.now()
 
-    try:
-        if name not in exists["events"].keys():
-            add = {name: {"modified": "", "due": ""}}
-            exists["events"].update(add)
+    if int(datetime.timestamp(now)) < int(tstamp):
+        try:
+            if name not in exists["events"].keys():
+                add = {name: {"modified": "", "due": ""}}
+                exists["events"].update(add)
 
-            exists["events"][name]["modified"] = modded
-            exists["events"][name]["due"] = time
-            exists["events"][name]["tstamp"] = tstamp
+                exists["events"][name]["modified"] = modded
+                exists["events"][name]["due"] = time
+                exists["events"][name]["tstamp"] = tstamp
 
-            print('Task: ' + name + ' has been added!')
-            with open('store.json', 'w', encoding="utf-8") as f:
-                json.dump(exists, f, indent=2)
+                print('Task: ' + name + ' has been added!')
+                with open('store.json', 'w', encoding="utf-8") as f:
+                    json.dump(exists, f, indent=2)
 
-            nTasks += 1
-            return 0
+                nTasks += 1
+                return 0
 
-        elif exists["events"][name]["modified"] != modded:
-            exists["events"][name]["modified"] = modded
-            exists["events"][name]["due"] = time
-            exists["events"][name]["tstamp"] = tstamp
+            elif exists["events"][name]["modified"] != modded:
+                exists["events"][name]["modified"] = modded
+                exists["events"][name]["due"] = time
+                exists["events"][name]["tstamp"] = tstamp
 
-            print('Task has been recently modified!')
-            with open('store.json', 'w', encoding="utf-8") as f:
-                json.dump(exists, f, indent=2)
+                print('Task has been recently modified!')
+                with open('store.json', 'w', encoding="utf-8") as f:
+                    json.dump(exists, f, indent=2)
 
-            nTUps += 1
-            return 1
+                nTUps += 1
+                return 1
 
-        elif exists["events"][name]["modified"] == modded:
-            delTodo(exists, name)
-            return 2
+            elif exists["events"][name]["modified"] == modded:
+                delTodo(exists, name)
+                return 2
 
-    except KeyError as e:
-        print("A KeyError. Oops! Error: ", e)
+        except KeyError as e:
+            print("A KeyError. Oops! Error: ", e)
+
+        else:
+            print(name + " is past deadline!")
 
     print('\n')
 
