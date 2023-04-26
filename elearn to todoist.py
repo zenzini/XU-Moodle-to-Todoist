@@ -311,8 +311,11 @@ def inTodo(exists, name, modded, time, tstamp):
         except KeyError as e:
             print("A KeyError. Oops! Error: ", e)
 
-        else:
-            print(name + " is past deadline!")
+    else:
+        if name in exists["events"].keys():
+            delTodo(exists, name)
+
+        return None
 
     print('\n')
 
@@ -321,6 +324,7 @@ def delTodo(exists, name):
     now = datetime.now()
     if int(exists["events"][name]["tstamp"]) < int(datetime.timestamp(now)):
         print("Task: " + name + " has been added AND is past the deadline! Deleting...")
+        print("piss")
         del exists["events"][name]
 
         with open('store.json', 'w', encoding="utf-8") as f:
